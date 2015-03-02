@@ -1,689 +1,530 @@
 {
-  "name": "Bayberry - White",
-  "city": "West Yarmouth",
-  "state": "Massachusetts",
-  "country": "USA",
-  "numHoles": 9,
-  "location": {
-    "latitude": 41.68423635736826,
-    "longitude": -70.23348135253113,
-    "altitude": 33.1278076171875
+  "name" : "Bayberry - White",
+  "city" : "West Yarmouth",
+  "state" : "Massachusetts",
+  "country" : "USA",
+  "numHoles" : 9,
+  "exclusivity" : "Municipal",
+  "phoneNumber" : "1-508-398-9079",
+  "location" : {
+    "latitude" : 41.68423635736826,
+    "longitude" : -70.23348135253113,
+    "altitude" : 33.1278076171875
   },
-  "holes": [
-    {
-      "number": 9,
-      "features": [
-        {
-          "name": "Tee",
-          "coordinates": [
-            {
-              "latitude": 41.6834215141972,
-              "longitude": -70.23963012833778,
-              "altitude": 14.08961009979248
-            }
-          ]
-        },
-        {
-          "name": "Right Fairway Bunkers",
-          "coordinates": [
-            {
-              "latitude": 41.68272034892306,
-              "longitude": -70.23730716600771,
-              "altitude": 16.08465576171875
-            },
-            {
-              "latitude": 41.68275325977202,
-              "longitude": -70.23691674592583,
-              "altitude": 17.15048789978027
-            }
-          ]
-        },
-        {
-          "name": "Green",
-          "coordinates": [
-            {
-              "latitude": 41.68365117110383,
-              "longitude": -70.23442495479442,
-              "altitude": 26.52178955078125
-            },
-            {
-              "latitude": 41.68368966861942,
-              "longitude": -70.2343215352892,
-              "altitude": 27.00848388671875
-            },
-            {
-              "latitude": 41.68373416185486,
-              "longitude": -70.23421400550471,
-              "altitude": 27.51893615722656
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "number": 8,
-      "features": [
-        {
-          "name": "Tee",
-          "coordinates": [
-            {
-              "latitude": 41.68026665547073,
-              "longitude": -70.23914452687681,
-              "altitude": 15.19642639160156
-            }
-          ]
-        },
-        {
-          "name": "Green",
-          "coordinates": [
-            {
-              "latitude": 41.68205596220237,
-              "longitude": -70.23928284968471,
-              "altitude": 14.56522941589355
-            },
-            {
-              "latitude": 41.68219356989628,
-              "longitude": -70.2392629439776,
-              "altitude": 14.56913948059082
-            },
-            {
-              "latitude": 41.68233299176099,
-              "longitude": -70.23923056736301,
-              "altitude": 14.38619709014893
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "number": 7,
-      "features": [
-        {
-          "name": "Tee",
-          "coordinates": [
-            {
-              "latitude": 41.67690546928217,
-              "longitude": -70.23744908848707,
-              "altitude": 14.3853588104248
-            }
-          ]
-        },
-        {
-          "name": "Dogleg",
-          "coordinates": [
-            {
-              "latitude": 41.67782912479895,
-              "longitude": -70.23975319313003,
-              "altitude": 13.83378982543945
-            }
-          ]
-        },
-        {
-          "name": "Green",
-          "coordinates": [
-            {
-              "latitude": 41.67899121993609,
-              "longitude": -70.2401585358714,
-              "altitude": 14.27627944946289
-            },
-            {
-              "latitude": 41.67909964350586,
-              "longitude": -70.24021730381818,
-              "altitude": 14.61723136901855
-            },
-            {
-              "latitude": 41.67920548952014,
-              "longitude": -70.24027591179848,
-              "altitude": 15.06967926025391
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "number": 6,
-      "features": [
-        {
-          "name": "Tee",
-          "coordinates": [
-            {
-              "latitude": 41.67797249113021,
-              "longitude": -70.23181696767894,
-              "altitude": 17.25540351867676
-            }
-          ]
-        },
-        {
-          "name": "Left Fairway Bunker",
-          "coordinates": [
-            {
-              "latitude": 41.67756339338811,
-              "longitude": -70.23441242327233,
-              "altitude": 15.47226810455322
-            },
-            {
-              "latitude": 41.6775345967141,
-              "longitude": -70.23477597454146,
-              "altitude": 15.92138671875
-            }
-          ]
-        },
-        {
-          "name": "Left Fairway Bunker",
-          "coordinates": [
-            {
-              "latitude": 41.67745549159007,
-              "longitude": -70.23610170756483,
-              "altitude": 13.55471229553223
-            },
-            {
-              "latitude": 41.67734141131467,
-              "longitude": -70.23659468944147,
-              "altitude": 14.89512825012207
-            }
-          ]
-        },
-        {
-          "name": "Green",
-          "coordinates": [
-            {
-              "latitude": 41.67718363613681,
-              "longitude": -70.23688318211676,
-              "altitude": 14.65725135803223
-            },
-            {
-              "latitude": 41.67714980083906,
-              "longitude": -70.23705082665467,
-              "altitude": 14.99895191192627
-            },
-            {
-              "latitude": 41.67713125090153,
-              "longitude": -70.23721825226008,
-              "altitude": 15.36354351043701
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "number": 5,
-      "features": [
-        {
-          "name": "Tee",
-          "coordinates": [
-            {
-              "latitude": 41.68171315214581,
-              "longitude": -70.22995496906563,
-              "altitude": 17.36599731445312
-            }
-          ]
-        },
-        {
-          "name": "Left Fairway Bunkers",
-          "coordinates": [
-            {
-              "latitude": 41.67980137693235,
-              "longitude": -70.22948100498098,
-              "altitude": 15.34118175506592
-            },
-            {
-              "latitude": 41.67947244273706,
-              "longitude": -70.22964155974911,
-              "altitude": 15.93993949890137
-            }
-          ]
-        },
-        {
-          "name": "Dogleg",
-          "coordinates": [
-            {
-              "latitude": 41.67967597847859,
-              "longitude": -70.22977444226424,
-              "altitude": 15.3391752243042
-            }
-          ]
-        },
-        {
-          "name": "Green",
-          "coordinates": [
-            {
-              "latitude": 41.67900749752084,
-              "longitude": -70.23096288455842,
-              "altitude": 16.31860160827637
-            },
-            {
-              "latitude": 41.67897983951965,
-              "longitude": -70.23113032084612,
-              "altitude": 16.40745162963867
-            },
-            {
-              "latitude": 41.67895258564393,
-              "longitude": -70.23129916824678,
-              "altitude": 15.79876804351807
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "number": 4,
-      "features": [
-        {
-          "name": "Tee",
-          "coordinates": [
-            {
-              "latitude": 41.68027922267437,
-              "longitude": -70.2355439077107,
-              "altitude": 14.92896366119385
-            }
-          ]
-        },
-        {
-          "name": "Fairway Ends",
-          "coordinates": [
-            {
-              "latitude": 41.68067999030587,
-              "longitude": -70.23244825103522,
-              "altitude": 16.70614242553711
-            }
-          ]
-        },
-        {
-          "name": "Green",
-          "coordinates": [
-            {
-              "latitude": 41.68094314372716,
-              "longitude": -70.2320330475927,
-              "altitude": 16.4482364654541
-            },
-            {
-              "latitude": 41.68100350246616,
-              "longitude": -70.2319374342973,
-              "altitude": 17.11064338684082
-            },
-            {
-              "latitude": 41.68106083095714,
-              "longitude": -70.23182171151858,
-              "altitude": 17.77512359619141
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "number": 3,
-      "features": [
-        {
-          "name": "Tee",
-          "coordinates": [
-            {
-              "latitude": 41.67957262692084,
-              "longitude": -70.23826824761107,
-              "altitude": 13.28391075134277
-            }
-          ]
-        },
-        {
-          "name": "Green",
-          "coordinates": [
-            {
-              "latitude": 41.67981146313575,
-              "longitude": -70.23611248887428,
-              "altitude": 12.52829265594482
-            },
-            {
-              "latitude": 41.67981635689619,
-              "longitude": -70.235997241168,
-              "altitude": 13.00046443939209
-            },
-            {
-              "latitude": 41.67982607014937,
-              "longitude": -70.23587248858854,
-              "altitude": 13.51301288604736
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "number": 2,
-      "features": [
-        {
-          "name": "Tee",
-          "coordinates": [
-            {
-              "latitude": 41.68404021690419,
-              "longitude": -70.2403484772322,
-              "altitude": 15.00808811187744
-            }
-          ]
-        },
-        {
-          "name": "Green",
-          "coordinates": [
-            {
-              "latitude": 41.68057042109509,
-              "longitude": -70.23989613333453,
-              "altitude": 14.80750370025635
-            },
-            {
-              "latitude": 41.68044852004191,
-              "longitude": -70.23988619170409,
-              "altitude": 15.28081035614014
-            },
-            {
-              "latitude": 41.68034403752894,
-              "longitude": -70.23988111272303,
-              "altitude": 15.59719276428223
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "number": 1,
-      "features": [
-        {
-          "name": "Tee",
-          "coordinates": [
-            {
-              "latitude": 41.68414765508914,
-              "longitude": -70.23471367887215,
-              "altitude": 31.7017936706543
-            }
-          ]
-        },
-        {
-          "name": "Green",
-          "coordinates": [
-            {
-              "latitude": 41.68388555416578,
-              "longitude": -70.23906923566878,
-              "altitude": 14.61713218688965
-            },
-            {
-              "latitude": 41.68392289583295,
-              "longitude": -70.2392345658943,
-              "altitude": 14.9174337387085
-            },
-            {
-              "latitude": 41.6839474641148,
-              "longitude": -70.23938858668306,
-              "altitude": 14.78434753417969
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "ratings": [
-    {
-      "teeName": "Gold",
-      "rating": 73.9,
-      "slope": 128.0,
-      "frontRating": 37.5,
-      "frontSlope": 130.0,
-      "backRating": 36.4,
-      "backSlope": 126.0,
-      "bogeyRating": 97.8,
-      "gender": "Male",
-      "holeRatings": [
-        {
-          "number": 9,
-          "par": 5,
-          "yardage": 520,
-          "handicap": 6
-        },
-        {
-          "number": 8,
-          "par": 3,
-          "yardage": 241,
-          "handicap": 7
-        },
-        {
-          "number": 7,
-          "par": 4,
-          "yardage": 409,
-          "handicap": 4
-        },
-        {
-          "number": 6,
-          "par": 5,
-          "yardage": 533,
-          "handicap": 5
-        },
-        {
-          "number": 5,
-          "par": 4,
-          "yardage": 407,
-          "handicap": 2
-        },
-        {
-          "number": 4,
-          "par": 4,
-          "yardage": 396,
-          "handicap": 8
-        },
-        {
-          "number": 3,
-          "par": 3,
-          "yardage": 215,
-          "handicap": 9
-        },
-        {
-          "number": 2,
-          "par": 4,
-          "yardage": 451,
-          "handicap": 1
-        },
-        {
-          "number": 1,
-          "par": 4,
-          "yardage": 424,
-          "handicap": 3
-        }
-      ]
-    },
-    {
-      "teeName": "Blue",
-      "rating": 71.0,
-      "slope": 124.0,
-      "frontRating": 35.9,
-      "frontSlope": 125.0,
-      "backRating": 35.1,
-      "backSlope": 123.0,
-      "bogeyRating": 94.0,
-      "gender": "Male",
-      "holeRatings": [
-        {
-          "number": 9,
-          "par": 5,
-          "yardage": 490,
-          "handicap": 6
-        },
-        {
-          "number": 8,
-          "par": 3,
-          "yardage": 186,
-          "handicap": 7
-        },
-        {
-          "number": 7,
-          "par": 4,
-          "yardage": 377,
-          "handicap": 4
-        },
-        {
-          "number": 6,
-          "par": 5,
-          "yardage": 511,
-          "handicap": 5
-        },
-        {
-          "number": 5,
-          "par": 4,
-          "yardage": 392,
-          "handicap": 2
-        },
-        {
-          "number": 4,
-          "par": 4,
-          "yardage": 346,
-          "handicap": 8
-        },
-        {
-          "number": 3,
-          "par": 3,
-          "yardage": 160,
-          "handicap": 9
-        },
-        {
-          "number": 2,
-          "par": 4,
-          "yardage": 411,
-          "handicap": 1
-        },
-        {
-          "number": 1,
-          "par": 4,
-          "yardage": 391,
-          "handicap": 3
-        }
-      ]
-    },
-    {
-      "teeName": "White",
-      "rating": 69.4,
-      "slope": 123.0,
-      "frontRating": 34.8,
-      "frontSlope": 127.0,
-      "backRating": 34.6,
-      "backSlope": 119.0,
-      "bogeyRating": 91.8,
-      "gender": "Male",
-      "holeRatings": [
-        {
-          "number": 9,
-          "par": 5,
-          "yardage": 475,
-          "handicap": 6
-        },
-        {
-          "number": 8,
-          "par": 3,
-          "yardage": 160,
-          "handicap": 7
-        },
-        {
-          "number": 7,
-          "par": 4,
-          "yardage": 349,
-          "handicap": 4
-        },
-        {
-          "number": 6,
-          "par": 5,
-          "yardage": 503,
-          "handicap": 5
-        },
-        {
-          "number": 5,
-          "par": 4,
-          "yardage": 352,
-          "handicap": 2
-        },
-        {
-          "number": 4,
-          "par": 4,
-          "yardage": 320,
-          "handicap": 8
-        },
-        {
-          "number": 3,
-          "par": 3,
-          "yardage": 130,
-          "handicap": 9
-        },
-        {
-          "number": 2,
-          "par": 4,
-          "yardage": 384,
-          "handicap": 1
-        },
-        {
-          "number": 1,
-          "par": 4,
-          "yardage": 372,
-          "handicap": 3
-        }
-      ]
-    },
-    {
-      "teeName": "Red",
-      "rating": 69.8,
-      "slope": 119.0,
-      "frontRating": 35.1,
-      "frontSlope": 124.0,
-      "backRating": 34.7,
-      "backSlope": 114.0,
-      "bogeyRating": 98.5,
-      "gender": "Female",
-      "holeRatings": [
-        {
-          "number": 9,
-          "par": 5,
-          "yardage": 420,
-          "handicap": 2
-        },
-        {
-          "number": 8,
-          "par": 3,
-          "yardage": 145,
-          "handicap": 8
-        },
-        {
-          "number": 7,
-          "par": 4,
-          "yardage": 289,
-          "handicap": 3
-        },
-        {
-          "number": 6,
-          "par": 5,
-          "yardage": 408,
-          "handicap": 1
-        },
-        {
-          "number": 5,
-          "par": 4,
-          "yardage": 277,
-          "handicap": 7
-        },
-        {
-          "number": 4,
-          "par": 4,
-          "yardage": 296,
-          "handicap": 4
-        },
-        {
-          "number": 3,
-          "par": 3,
-          "yardage": 112,
-          "handicap": 9
-        },
-        {
-          "number": 2,
-          "par": 4,
-          "yardage": 331,
-          "handicap": 5
-        },
-        {
-          "number": 1,
-          "par": 4,
-          "yardage": 306,
-          "handicap": 6
-        }
-      ]
-    }
-  ]
+  "holes" : [ {
+    "number" : 9,
+    "features" : [ {
+      "name" : "Tee",
+      "coordinates" : [ {
+        "latitude" : 41.6834215141972,
+        "longitude" : -70.23963012833778,
+        "altitude" : 14.08961009979248
+      } ]
+    }, {
+      "name" : "Right Fairway Bunkers",
+      "coordinates" : [ {
+        "latitude" : 41.68272034892306,
+        "longitude" : -70.23730716600771,
+        "altitude" : 16.08465576171875
+      }, {
+        "latitude" : 41.68275325977202,
+        "longitude" : -70.23691674592583,
+        "altitude" : 17.15048789978027
+      } ]
+    }, {
+      "name" : "Green",
+      "coordinates" : [ {
+        "latitude" : 41.68365117110383,
+        "longitude" : -70.23442495479442,
+        "altitude" : 26.52178955078125
+      }, {
+        "latitude" : 41.68368966861942,
+        "longitude" : -70.2343215352892,
+        "altitude" : 27.00848388671875
+      }, {
+        "latitude" : 41.68373416185486,
+        "longitude" : -70.23421400550471,
+        "altitude" : 27.51893615722656
+      } ]
+    } ]
+  }, {
+    "number" : 8,
+    "features" : [ {
+      "name" : "Tee",
+      "coordinates" : [ {
+        "latitude" : 41.68026665547073,
+        "longitude" : -70.23914452687681,
+        "altitude" : 15.19642639160156
+      } ]
+    }, {
+      "name" : "Green",
+      "coordinates" : [ {
+        "latitude" : 41.68205596220237,
+        "longitude" : -70.23928284968471,
+        "altitude" : 14.56522941589355
+      }, {
+        "latitude" : 41.68219356989628,
+        "longitude" : -70.2392629439776,
+        "altitude" : 14.56913948059082
+      }, {
+        "latitude" : 41.68233299176099,
+        "longitude" : -70.23923056736301,
+        "altitude" : 14.38619709014893
+      } ]
+    } ]
+  }, {
+    "number" : 7,
+    "features" : [ {
+      "name" : "Tee",
+      "coordinates" : [ {
+        "latitude" : 41.67690546928217,
+        "longitude" : -70.23744908848707,
+        "altitude" : 14.3853588104248
+      } ]
+    }, {
+      "name" : "Dogleg",
+      "coordinates" : [ {
+        "latitude" : 41.67782912479895,
+        "longitude" : -70.23975319313003,
+        "altitude" : 13.83378982543945
+      } ]
+    }, {
+      "name" : "Green",
+      "coordinates" : [ {
+        "latitude" : 41.67899121993609,
+        "longitude" : -70.2401585358714,
+        "altitude" : 14.27627944946289
+      }, {
+        "latitude" : 41.67909964350586,
+        "longitude" : -70.24021730381818,
+        "altitude" : 14.61723136901855
+      }, {
+        "latitude" : 41.67920548952014,
+        "longitude" : -70.24027591179848,
+        "altitude" : 15.06967926025391
+      } ]
+    } ]
+  }, {
+    "number" : 6,
+    "features" : [ {
+      "name" : "Tee",
+      "coordinates" : [ {
+        "latitude" : 41.67797249113021,
+        "longitude" : -70.23181696767894,
+        "altitude" : 17.25540351867676
+      } ]
+    }, {
+      "name" : "Left Fairway Bunker",
+      "coordinates" : [ {
+        "latitude" : 41.67756339338811,
+        "longitude" : -70.23441242327233,
+        "altitude" : 15.47226810455322
+      }, {
+        "latitude" : 41.6775345967141,
+        "longitude" : -70.23477597454146,
+        "altitude" : 15.92138671875
+      } ]
+    }, {
+      "name" : "Left Fairway Bunker",
+      "coordinates" : [ {
+        "latitude" : 41.67745549159007,
+        "longitude" : -70.23610170756483,
+        "altitude" : 13.55471229553223
+      }, {
+        "latitude" : 41.67734141131467,
+        "longitude" : -70.23659468944147,
+        "altitude" : 14.89512825012207
+      } ]
+    }, {
+      "name" : "Green",
+      "coordinates" : [ {
+        "latitude" : 41.67718363613681,
+        "longitude" : -70.23688318211676,
+        "altitude" : 14.65725135803223
+      }, {
+        "latitude" : 41.67714980083906,
+        "longitude" : -70.23705082665467,
+        "altitude" : 14.99895191192627
+      }, {
+        "latitude" : 41.67713125090153,
+        "longitude" : -70.23721825226008,
+        "altitude" : 15.36354351043701
+      } ]
+    } ]
+  }, {
+    "number" : 5,
+    "features" : [ {
+      "name" : "Tee",
+      "coordinates" : [ {
+        "latitude" : 41.68171315214581,
+        "longitude" : -70.22995496906563,
+        "altitude" : 17.36599731445312
+      } ]
+    }, {
+      "name" : "Left Fairway Bunkers",
+      "coordinates" : [ {
+        "latitude" : 41.67980137693235,
+        "longitude" : -70.22948100498098,
+        "altitude" : 15.34118175506592
+      }, {
+        "latitude" : 41.67947244273706,
+        "longitude" : -70.22964155974911,
+        "altitude" : 15.93993949890137
+      } ]
+    }, {
+      "name" : "Dogleg",
+      "coordinates" : [ {
+        "latitude" : 41.67967597847859,
+        "longitude" : -70.22977444226424,
+        "altitude" : 15.3391752243042
+      } ]
+    }, {
+      "name" : "Green",
+      "coordinates" : [ {
+        "latitude" : 41.67900749752084,
+        "longitude" : -70.23096288455842,
+        "altitude" : 16.31860160827637
+      }, {
+        "latitude" : 41.67897983951965,
+        "longitude" : -70.23113032084612,
+        "altitude" : 16.40745162963867
+      }, {
+        "latitude" : 41.67895258564393,
+        "longitude" : -70.23129916824678,
+        "altitude" : 15.79876804351807
+      } ]
+    } ]
+  }, {
+    "number" : 4,
+    "features" : [ {
+      "name" : "Tee",
+      "coordinates" : [ {
+        "latitude" : 41.68027922267437,
+        "longitude" : -70.2355439077107,
+        "altitude" : 14.92896366119385
+      } ]
+    }, {
+      "name" : "Fairway Ends",
+      "coordinates" : [ {
+        "latitude" : 41.68067999030587,
+        "longitude" : -70.23244825103522,
+        "altitude" : 16.70614242553711
+      } ]
+    }, {
+      "name" : "Green",
+      "coordinates" : [ {
+        "latitude" : 41.68094314372716,
+        "longitude" : -70.2320330475927,
+        "altitude" : 16.4482364654541
+      }, {
+        "latitude" : 41.68100350246616,
+        "longitude" : -70.2319374342973,
+        "altitude" : 17.11064338684082
+      }, {
+        "latitude" : 41.68106083095714,
+        "longitude" : -70.23182171151858,
+        "altitude" : 17.77512359619141
+      } ]
+    } ]
+  }, {
+    "number" : 3,
+    "features" : [ {
+      "name" : "Tee",
+      "coordinates" : [ {
+        "latitude" : 41.67957262692084,
+        "longitude" : -70.23826824761107,
+        "altitude" : 13.28391075134277
+      } ]
+    }, {
+      "name" : "Green",
+      "coordinates" : [ {
+        "latitude" : 41.67981146313575,
+        "longitude" : -70.23611248887428,
+        "altitude" : 12.52829265594482
+      }, {
+        "latitude" : 41.67981635689619,
+        "longitude" : -70.235997241168,
+        "altitude" : 13.00046443939209
+      }, {
+        "latitude" : 41.67982607014937,
+        "longitude" : -70.23587248858854,
+        "altitude" : 13.51301288604736
+      } ]
+    } ]
+  }, {
+    "number" : 2,
+    "features" : [ {
+      "name" : "Tee",
+      "coordinates" : [ {
+        "latitude" : 41.68404021690419,
+        "longitude" : -70.2403484772322,
+        "altitude" : 15.00808811187744
+      } ]
+    }, {
+      "name" : "Green",
+      "coordinates" : [ {
+        "latitude" : 41.68057042109509,
+        "longitude" : -70.23989613333453,
+        "altitude" : 14.80750370025635
+      }, {
+        "latitude" : 41.68044852004191,
+        "longitude" : -70.23988619170409,
+        "altitude" : 15.28081035614014
+      }, {
+        "latitude" : 41.68034403752894,
+        "longitude" : -70.23988111272303,
+        "altitude" : 15.59719276428223
+      } ]
+    } ]
+  }, {
+    "number" : 1,
+    "features" : [ {
+      "name" : "Tee",
+      "coordinates" : [ {
+        "latitude" : 41.68414765508914,
+        "longitude" : -70.23471367887215,
+        "altitude" : 31.7017936706543
+      } ]
+    }, {
+      "name" : "Green",
+      "coordinates" : [ {
+        "latitude" : 41.68388555416578,
+        "longitude" : -70.23906923566878,
+        "altitude" : 14.61713218688965
+      }, {
+        "latitude" : 41.68392289583295,
+        "longitude" : -70.2392345658943,
+        "altitude" : 14.9174337387085
+      }, {
+        "latitude" : 41.6839474641148,
+        "longitude" : -70.23938858668306,
+        "altitude" : 14.78434753417969
+      } ]
+    } ]
+  } ],
+  "ratings" : [ {
+    "teeName" : "Gold",
+    "rating" : 73.9,
+    "slope" : 128.0,
+    "frontRating" : 37.5,
+    "frontSlope" : 130.0,
+    "backRating" : 36.4,
+    "backSlope" : 126.0,
+    "bogeyRating" : 97.8,
+    "gender" : "Male",
+    "holeRatings" : [ {
+      "number" : 9,
+      "par" : 5,
+      "yardage" : 520,
+      "handicap" : 6
+    }, {
+      "number" : 8,
+      "par" : 3,
+      "yardage" : 241,
+      "handicap" : 7
+    }, {
+      "number" : 7,
+      "par" : 4,
+      "yardage" : 409,
+      "handicap" : 4
+    }, {
+      "number" : 6,
+      "par" : 5,
+      "yardage" : 533,
+      "handicap" : 5
+    }, {
+      "number" : 5,
+      "par" : 4,
+      "yardage" : 407,
+      "handicap" : 2
+    }, {
+      "number" : 4,
+      "par" : 4,
+      "yardage" : 396,
+      "handicap" : 8
+    }, {
+      "number" : 3,
+      "par" : 3,
+      "yardage" : 215,
+      "handicap" : 9
+    }, {
+      "number" : 2,
+      "par" : 4,
+      "yardage" : 451,
+      "handicap" : 1
+    }, {
+      "number" : 1,
+      "par" : 4,
+      "yardage" : 424,
+      "handicap" : 3
+    } ]
+  }, {
+    "teeName" : "Blue",
+    "rating" : 71.0,
+    "slope" : 124.0,
+    "frontRating" : 35.9,
+    "frontSlope" : 125.0,
+    "backRating" : 35.1,
+    "backSlope" : 123.0,
+    "bogeyRating" : 94.0,
+    "gender" : "Male",
+    "holeRatings" : [ {
+      "number" : 9,
+      "par" : 5,
+      "yardage" : 490,
+      "handicap" : 6
+    }, {
+      "number" : 8,
+      "par" : 3,
+      "yardage" : 186,
+      "handicap" : 7
+    }, {
+      "number" : 7,
+      "par" : 4,
+      "yardage" : 377,
+      "handicap" : 4
+    }, {
+      "number" : 6,
+      "par" : 5,
+      "yardage" : 511,
+      "handicap" : 5
+    }, {
+      "number" : 5,
+      "par" : 4,
+      "yardage" : 392,
+      "handicap" : 2
+    }, {
+      "number" : 4,
+      "par" : 4,
+      "yardage" : 346,
+      "handicap" : 8
+    }, {
+      "number" : 3,
+      "par" : 3,
+      "yardage" : 160,
+      "handicap" : 9
+    }, {
+      "number" : 2,
+      "par" : 4,
+      "yardage" : 411,
+      "handicap" : 1
+    }, {
+      "number" : 1,
+      "par" : 4,
+      "yardage" : 391,
+      "handicap" : 3
+    } ]
+  }, {
+    "teeName" : "White",
+    "rating" : 69.4,
+    "slope" : 123.0,
+    "frontRating" : 34.8,
+    "frontSlope" : 127.0,
+    "backRating" : 34.6,
+    "backSlope" : 119.0,
+    "bogeyRating" : 91.8,
+    "gender" : "Male",
+    "holeRatings" : [ {
+      "number" : 9,
+      "par" : 5,
+      "yardage" : 475,
+      "handicap" : 6
+    }, {
+      "number" : 8,
+      "par" : 3,
+      "yardage" : 160,
+      "handicap" : 7
+    }, {
+      "number" : 7,
+      "par" : 4,
+      "yardage" : 349,
+      "handicap" : 4
+    }, {
+      "number" : 6,
+      "par" : 5,
+      "yardage" : 503,
+      "handicap" : 5
+    }, {
+      "number" : 5,
+      "par" : 4,
+      "yardage" : 352,
+      "handicap" : 2
+    }, {
+      "number" : 4,
+      "par" : 4,
+      "yardage" : 320,
+      "handicap" : 8
+    }, {
+      "number" : 3,
+      "par" : 3,
+      "yardage" : 130,
+      "handicap" : 9
+    }, {
+      "number" : 2,
+      "par" : 4,
+      "yardage" : 384,
+      "handicap" : 1
+    }, {
+      "number" : 1,
+      "par" : 4,
+      "yardage" : 372,
+      "handicap" : 3
+    } ]
+  }, {
+    "teeName" : "Red",
+    "rating" : 69.8,
+    "slope" : 119.0,
+    "frontRating" : 35.1,
+    "frontSlope" : 124.0,
+    "backRating" : 34.7,
+    "backSlope" : 114.0,
+    "bogeyRating" : 98.5,
+    "gender" : "Female",
+    "holeRatings" : [ {
+      "number" : 9,
+      "par" : 5,
+      "yardage" : 420,
+      "handicap" : 2
+    }, {
+      "number" : 8,
+      "par" : 3,
+      "yardage" : 145,
+      "handicap" : 8
+    }, {
+      "number" : 7,
+      "par" : 4,
+      "yardage" : 289,
+      "handicap" : 3
+    }, {
+      "number" : 6,
+      "par" : 5,
+      "yardage" : 408,
+      "handicap" : 1
+    }, {
+      "number" : 5,
+      "par" : 4,
+      "yardage" : 277,
+      "handicap" : 7
+    }, {
+      "number" : 4,
+      "par" : 4,
+      "yardage" : 296,
+      "handicap" : 4
+    }, {
+      "number" : 3,
+      "par" : 3,
+      "yardage" : 112,
+      "handicap" : 9
+    }, {
+      "number" : 2,
+      "par" : 4,
+      "yardage" : 331,
+      "handicap" : 5
+    }, {
+      "number" : 1,
+      "par" : 4,
+      "yardage" : 306,
+      "handicap" : 6
+    } ]
+  } ]
 }
