@@ -9,12 +9,50 @@
 		</Pair>
 		<Pair>
 			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
 			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
 		</Pair>
 	</StyleMap>
 	<Style id="s_ylw-pushpin_hl">
 		<IconStyle>
 			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
@@ -30,26 +68,16 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<StyleMap id="m_ylw-pushpin0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin">
+	<Style id="s_ylw-pushpin_hl00">
 		<IconStyle>
-			<scale>1.1</scale>
+			<scale>1.3</scale>
 			<Icon>
 				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 			</Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
-	<Style id="s_ylw-pushpin0">
+	<Style id="s_ylw-pushpin00">
 		<IconStyle>
 			<scale>1.1</scale>
 			<Icon>
@@ -79,6 +107,16 @@
 			</Point>
 		</Placemark>
 		<Placemark>
+			<name>1-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.42953453675098,41.59802577944784,0 -71.43003541768587,41.59604488395125,0 -71.43019241414595,41.59495091868554,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
 			<name>1-Tee</name>
 			<LookAt>
 				<longitude>-71.42960410805608</longitude>
@@ -97,11 +135,21 @@
 		</Placemark>
 		<Placemark>
 			<name>1-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.4301795245475,41.59508466956353,0 -71.43019909576468,41.59496512714952,0 -71.43022188171929,41.59483854413394,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>2-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.4302521870236,41.59455362082874,0 -71.43186205813308,41.59546962431181,0 -71.43288698159583,41.59574391473684,0 -71.43411575452274,41.59603270500993,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -124,7 +172,7 @@
 		</Placemark>
 		<Placemark>
 			<name>2-Creek</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -134,11 +182,21 @@
 		</Placemark>
 		<Placemark>
 			<name>2-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.4339888007746,41.59600288657715,0 -71.43412590691891,41.59604689822324,0 -71.43425406376424,41.59608864953304,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>3-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.43507990754037,41.59596758648485,0 -71.43379062715424,41.59481369393209,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -161,11 +219,21 @@
 		</Placemark>
 		<Placemark>
 			<name>3-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.43387477893958,41.59489590896678,0 -71.43379244119247,41.5948207059778,0 -71.43370703220383,41.59474787049624,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>4-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.4337954523638,41.59432841741503,0 -71.43619303001417,41.59561359085417,0 -71.43845346781356,41.59640912149807,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -188,11 +256,21 @@
 		</Placemark>
 		<Placemark>
 			<name>4-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.43830994070542,41.59638266990255,0 -71.43845365002514,41.59641698006913,0 -71.43858688586513,41.59644882007556,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>5-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.4386590608473,41.5968575578933,0 -71.43616893199646,41.59655309248536,0 -71.4345465466162,41.59638330592788,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -232,11 +310,21 @@
 		</Placemark>
 		<Placemark>
 			<name>5-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.43472711441181,41.59642624202294,0 -71.43453954689552,41.59640177770807,0 -71.43438207522699,41.59637727274837,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>6-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.43403103778469,41.59650122315166,0 -71.43589407533477,41.59745057491113,0 -71.43751792471289,41.59758900654408,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -276,11 +364,21 @@
 		</Placemark>
 		<Placemark>
 			<name>6-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.43742950404655,41.59758534708688,0 -71.43753099144146,41.59759264102622,0 -71.43763561860612,41.59759746011594,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>7-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.43763838909362,41.59803870323827,0 -71.43434077539578,41.59780352693546,0 -71.4327663417161,41.59792389625146,0 -71.43161718402615,41.59789283780309,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -303,11 +401,21 @@
 		</Placemark>
 		<Placemark>
 			<name>7-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.43176299602523,41.59787099263367,0 -71.4316289849952,41.59788311258594,0 -71.4315020436001,41.59789280783961,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>8-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.43107359534842,41.59762396020118,0 -71.43170802723819,41.59607799165439,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -330,11 +438,21 @@
 		</Placemark>
 		<Placemark>
 			<name>8-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.43166106824914,41.59618801998678,0 -71.43170319749106,41.5960912321073,0 -71.43175191873276,41.59598200467249,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>9-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.43123385576453,41.5956851512929,0 -71.43059404174888,41.59701081778081,0 -71.43016746627481,41.59782564625564,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -357,11 +475,21 @@
 		</Placemark>
 		<Placemark>
 			<name>9-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.43020889316684,41.59773579030387,0 -71.43016378735707,41.5978153529865,0 -71.43011547868318,41.59790205739159,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>10-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.4291881990067,41.59845734985967,0 -71.42780407743936,41.59931809213614,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -384,11 +512,21 @@
 		</Placemark>
 		<Placemark>
 			<name>10-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.42790430300359,41.59924733890389,0 -71.4278105405845,41.59931736312593,0 -71.42771686532001,41.59938492445386,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>11-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.42656807377338,41.59934557845801,0 -71.4258883003216,41.60075772233927,0 -71.4249906466658,41.60242266969161,0 -71.42417474734248,41.60353495680264,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -411,7 +549,7 @@
 		</Placemark>
 		<Placemark>
 			<name>11-Right Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -421,11 +559,21 @@
 		</Placemark>
 		<Placemark>
 			<name>11-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.42424362972072,41.60342846664389,0 -71.42417460192671,41.60353408635432,0 -71.42411224319808,41.60363956686447,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>12-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.42356763334503,41.6038289393645,0 -71.42397723116522,41.60247792994725,0 -71.42490268089198,41.60129637585003,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -448,11 +596,21 @@
 		</Placemark>
 		<Placemark>
 			<name>12-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.4248142008509,41.60140931583557,0 -71.42487776187664,41.60131482007623,0 -71.42493654104442,41.6012248871583,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>13-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.42366386206142,41.60102558021002,0 -71.4210990313077,41.60101475843775,0 -71.41927781156012,41.6006426731821,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -475,11 +633,21 @@
 		</Placemark>
 		<Placemark>
 			<name>13-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.4193858304322,41.60067599292658,0 -71.41929053582301,41.60065140833502,0 -71.41918854730709,41.60062187808806,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>14-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.41898242374489,41.60077352012803,0 -71.42022068528858,41.60205580365993,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -502,11 +670,21 @@
 		</Placemark>
 		<Placemark>
 			<name>14-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.42014518821901,41.60198822833574,0 -71.42021063017559,41.60206172052089,0 -71.42027285210899,41.60212786359654,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>15-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.42068760456513,41.60334997520154,0 -71.42116052167094,41.60195490706425,0 -71.42199245926047,41.60136893788521,0 -71.42350877097797,41.60131036569788,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -546,7 +724,7 @@
 		</Placemark>
 		<Placemark>
 			<name>15-Right Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -556,11 +734,21 @@
 		</Placemark>
 		<Placemark>
 			<name>15-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.42334897855561,41.60134281253063,0 -71.42349815666444,41.60133574300497,0 -71.42362433731047,41.60132874027494,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>16-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.42403014988881,41.60141554764437,0 -71.42366743273418,41.59956404371378,0 -71.42226869691612,41.59856086254266,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -600,11 +788,21 @@
 		</Placemark>
 		<Placemark>
 			<name>16-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.42240045311885,41.59866714815158,0 -71.42227731955789,41.59858122042414,0 -71.42216486124772,41.59850772522229,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>17-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.422671219037,41.59842815072226,0 -71.4240592165078,41.59927090170589,0 -71.42492251249458,41.59957158474261,0 -71.42565962506231,41.59954384840226,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -627,7 +825,7 @@
 		</Placemark>
 		<Placemark>
 			<name>17-Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
@@ -637,11 +835,21 @@
 		</Placemark>
 		<Placemark>
 			<name>17-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
 					-71.4255146433717,41.59952488998483,0 -71.42564020530378,41.59955149106167,0 -71.42574954503939,41.59957805561325,0 
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name>18-Flyby</name>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<LineString>
+				<tessellate>1</tessellate>
+				<coordinates>
+					-71.42715993757403,41.59929758844746,0 -71.42787029924249,41.59816478932927,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -664,7 +872,7 @@
 		</Placemark>
 		<Placemark>
 			<name>18-Green</name>
-			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<styleUrl>#m_ylw-pushpin00</styleUrl>
 			<LineString>
 				<tessellate>1</tessellate>
 				<coordinates>
