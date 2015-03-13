@@ -1,1012 +1,682 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document>
-	<name>Hyannis.kml</name>
-	<Style id="s_ylw-pushpin10">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl2">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin7">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl8</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin20">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin10</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl2</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="m_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin70">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<StyleMap id="m_ylw-pushpin11">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#s_ylw-pushpin70</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#s_ylw-pushpin_hl6</styleUrl>
-		</Pair>
-	</StyleMap>
-	<Style id="s_ylw-pushpin6">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl8">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Style id="s_ylw-pushpin_hl6">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-	</Style>
-	<Folder>
-		<name>Hyannis</name>
-		<open>1</open>
-		<Placemark>
-			<name>Home</name>
-			<LookAt>
-				<longitude>-70.32483489480893</longitude>
-				<latitude>41.68376057860372</latitude>
-				<altitude>0</altitude>
-				<heading>0.001833591970075335</heading>
-				<tilt>6.418526758902608</tilt>
-				<range>723.3900246780127</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32765935806074,41.68440478624319,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>1-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32646050276992,41.68467930737612,0 -70.32447945931061,41.68416593709132,0 -70.32284934065827,41.68358837488746,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>1-Tee</name>
-			<LookAt>
-				<longitude>-70.32454451582207</longitude>
-				<latitude>41.68436238698515</latitude>
-				<altitude>0</altitude>
-				<heading>0.002026431841406265</heading>
-				<tilt>11.36993576444052</tilt>
-				<range>553.0824822902973</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32645549555244,41.68465984764233,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>1-Left Fairway Bunkers</name>
-			<styleUrl>#m_ylw-pushpin20</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32436260552224,41.68425447616674,0 -70.32365727437946,41.68407091798346,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>1-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32301237336456,41.68366489379754,0 -70.32284917402929,41.6835919089993,0 -70.32271144904108,41.6835266799781,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>2-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32293209660556,41.68408157132586,0 -70.3233438865953,41.6857264669641,0 -70.3234551326551,41.68729116894897,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>2-Tee</name>
-			<LookAt>
-				<longitude>-70.32242148169028</longitude>
-				<latitude>41.68465746086888</latitude>
-				<altitude>0</altitude>
-				<heading>0.003438196346363314</heading>
-				<tilt>15.05146844932254</tilt>
-				<range>435.9670784593023</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32292715832301,41.68406008640017,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>2-Right Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32303313866906,41.68577332900742,0 -70.32313026621564,41.68591486886456,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>2-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32342235641265,41.68715169708562,0 -70.32344063118603,41.68729648967176,0 -70.32345326763567,41.6874230573647,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>3-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32273025972906,41.68745413522694,0 -70.32060842686218,41.68757321378964,0 -70.31891902742176,41.68764864385663,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>3-Tee</name>
-			<LookAt>
-				<longitude>-70.32115065896396</longitude>
-				<latitude>41.68772412143812</latitude>
-				<altitude>0</altitude>
-				<heading>0.004283413000077871</heading>
-				<tilt>15.05144833903568</tilt>
-				<range>427.3456236735606</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32273905473309,41.68744546002947,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>3-Right Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32043283391185,41.68744901650204,0 -70.32025244628203,41.68744871304649,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>3-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.31911769412568,41.68763763303252,0 -70.31892508206182,41.68764473537438,0 -70.31875635375685,41.68765440719073,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>4-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.31936069828389,41.68811659809151,0 -70.32194057645607,41.68799966600073,0 -70.32362194424618,41.68771456777154,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>4-Tee</name>
-			<LookAt>
-				<longitude>-70.3206994056778</longitude>
-				<latitude>41.68815989727716</latitude>
-				<altitude>0</altitude>
-				<heading>0.004583522708824294</heading>
-				<tilt>15.05143742599839</tilt>
-				<range>422.6670799354757</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.31938317500443,41.6881257009557,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>4-Water Right</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32131581882703,41.68823782978872,0 -70.32167865497948,41.68819192125309,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>4-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32340972741784,41.68775294629236,0 -70.32359971511677,41.68771904557556,0 -70.32386574701546,41.6876802595354,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>5-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32303322559552,41.68744118721088,0 -70.32180774472965,41.68551657990587,0 -70.32212486728473,41.6841735565812,0 -70.32225086042531,41.68309324264151,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>5-Tee</name>
-			<LookAt>
-				<longitude>-70.32186551760518</longitude>
-				<latitude>41.68714193328456</latitude>
-				<altitude>0</altitude>
-				<heading>0.003807956470285591</heading>
-				<tilt>15.05145203486103</tilt>
-				<range>428.9299944741167</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32300378735529,41.6874022076714,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>5-Right Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32206233656511,41.68548845691611,0 -70.32198752382708,41.6854006824187,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>5-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32218987525773,41.68322658374756,0 -70.32224750261769,41.68309711003,0 -70.32229228818659,41.68297937640359,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>6-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32207358316379,41.68271743652593,0 -70.31969429792828,41.68214700987771,0 -70.31841781728281,41.68225039207883,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>6-Tee</name>
-			<LookAt>
-				<longitude>-70.32207675399272</longitude>
-				<latitude>41.68277652034075</latitude>
-				<altitude>0</altitude>
-				<heading>0.00366748993109711</heading>
-				<tilt>15.05146590192903</tilt>
-				<range>434.8749416867194</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32206779747608,41.68269958390014,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>6-Right Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.31963182757224,41.68201615341553,0 -70.3192992586591,41.68201539898591,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>6-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.31855221590541,41.68219893009228,0 -70.31841878407275,41.68223534950178,0 -70.31828453434386,41.68226930536298,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>7-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.31778340646784,41.68281538743771,0 -70.31803908052639,41.68157874627548,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>7-Tee</name>
-			<LookAt>
-				<longitude>-70.31734677718198</longitude>
-				<latitude>41.68221111022414</latitude>
-				<altitude>0</altitude>
-				<heading>0.006812894414513485</heading>
-				<tilt>15.05147448686576</tilt>
-				<range>438.5554176523515</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.31778938270631,41.68279549508415,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>7-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.31801029745051,41.68167041578446,0 -70.31804667041666,41.68157298867528,0 -70.31807561476892,41.6814745280646,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>8-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.31891226230904,41.68103764481462,0 -70.32119788067403,41.68130686865675,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>8-Tee</name>
-			<LookAt>
-				<longitude>-70.3194114416288</longitude>
-				<latitude>41.68148321321335</latitude>
-				<altitude>0</altitude>
-				<heading>0.005439914904278785</heading>
-				<tilt>15.05147562121366</tilt>
-				<range>439.0416957217402</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.31893378240009,41.68103512977709,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>8-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32099996429159,41.68129799687978,0 -70.3211692755757,41.6813156969259,0 -70.32133212922723,41.6813287041405,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>9-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32224715175899,41.68274209129639,0 -70.32471111088803,41.68366309825959,0 -70.32650661812426,41.68412350313706,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>9-Tee</name>
-			<LookAt>
-				<longitude>-70.32207675399272</longitude>
-				<latitude>41.68277652034075</latitude>
-				<altitude>0</altitude>
-				<heading>0.00366748993109711</heading>
-				<tilt>15.05146590192903</tilt>
-				<range>434.8749416867194</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32226529924029,41.68271929563796,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>9-Right Fairway Bunkers</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32445495427861,41.68378161044414,0 -70.32491850406626,41.68386091815201,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>9-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32635239376206,41.68411392969308,0 -70.32650257035509,41.68413268111638,0 -70.32665954987485,41.6841510755055,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>10-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32785830974318,41.68459641620921,0 -70.32708409248143,41.68623572017298,0 -70.3262909736528,41.68737948435026,0 -70.32571439533028,41.68803955190745,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>10-Tee</name>
-			<LookAt>
-				<longitude>-70.32582505964641</longitude>
-				<latitude>41.68595546062141</latitude>
-				<altitude>0</altitude>
-				<heading>0.001174865847318204</heading>
-				<tilt>15.05282280911141</tilt>
-				<range>618.425955553928</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.327862045233,41.68457994565874,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>10-Left Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32723009960829,41.68632470195936,0 -70.32715619849515,41.68645782908111,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>10-Left Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32637635819364,41.68754242505283,0 -70.3263042191038,41.68767416184316,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>10-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32580362249892,41.68796565490638,0 -70.32571079456784,41.68804623338828,0 -70.3256109859546,41.68812849858579,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>11-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32662829301199,41.68771628826875,0 -70.3260879796501,41.68867741883308,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>11-Tee</name>
-			<LookAt>
-				<longitude>-70.32534657793141</longitude>
-				<latitude>41.68806044503455</latitude>
-				<altitude>0</altitude>
-				<heading>0.001493274659521113</heading>
-				<tilt>19.46270416557803</tilt>
-				<range>423.670934153792</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32661763891647,41.68766959109351,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>11-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.3261629923454,41.6885680626593,0 -70.32609754500862,41.68866826756781,0 -70.3260324798951,41.68877184931086,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>12-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32647021450762,41.68903547468459,0 -70.32397463956359,41.68913209058578,0 -70.32244471652535,41.68906077827457,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>12-Tee</name>
-			<LookAt>
-				<longitude>-70.32527727801768</longitude>
-				<latitude>41.68870377312837</latitude>
-				<altitude>0</altitude>
-				<heading>0.001539363241226599</heading>
-				<tilt>19.46270063171433</tilt>
-				<range>422.4901460943854</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32646303015042,41.68901837050728,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>12-Fairway Ends</name>
-			<LookAt>
-				<longitude>-70.32238902482823</longitude>
-				<latitude>41.689006838622</latitude>
-				<altitude>0</altitude>
-				<heading>0.003460309989078385</heading>
-				<tilt>19.46269594087853</tilt>
-				<range>420.9227727174242</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32298091796476,41.68907389081567,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>12-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32261539429339,41.68904896625877,0 -70.32246017557449,41.68905796244309,0 -70.32230193024019,41.68907242227398,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>13-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32263224435223,41.68867070179147,0 -70.32104175758488,41.68908783197173,0 -70.31916001314531,41.68916945584651,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>13-Tee</name>
-			<LookAt>
-				<longitude>-70.32140611236754</longitude>
-				<latitude>41.68882899303821</latitude>
-				<altitude>0</altitude>
-				<heading>0.00411401829558979</heading>
-				<tilt>19.46270897581969</tilt>
-				<range>425.2782147578189</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32265105825981,41.68866455602765,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>13-Right Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.3209343685571,41.68894854286729,0 -70.32083373727441,41.68898168026467,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>13-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.31929745544079,41.68914393225835,0 -70.31917468598115,41.68915600568532,0 -70.31906906322425,41.6891682180939,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>14-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.31916097267683,41.68859683762975,0 -70.32227121268244,41.68839801206471,0 -70.32383865140945,41.68831735554019,0 -70.32493802531749,41.68859212256923,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>14-Tee</name>
-			<LookAt>
-				<longitude>-70.32040626699103</longitude>
-				<latitude>41.68877134320449</latitude>
-				<altitude>0</altitude>
-				<heading>0.00477901301206704</heading>
-				<tilt>19.46269158538568</tilt>
-				<range>419.4674032049614</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.31915416536079,41.68860403582381,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>14-Water Left</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32132793088633,41.68830547468679,0 -70.32170404522743,41.68825941690856,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>14-Right Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32250235684791,41.68838359012588,0 -70.32281153388705,41.68832084853516,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>14-Left Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32345329486057,41.68819519982525,0 -70.32366481546663,41.68820337832276,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>14-Left Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32417150475648,41.68828860006951,0 -70.3243952255296,41.68832787039427,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>14-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32479960819332,41.68850513336483,0 -70.3249403895074,41.68857854497728,0 -70.32507499004996,41.68864672833145,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>15-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32556041350372,41.68850621854694,0 -70.32433014541401,41.68790423274462,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>15-Tee</name>
-			<LookAt>
-				<longitude>-70.32463882814905</longitude>
-				<latitude>41.68848048987338</latitude>
-				<altitude>0</altitude>
-				<heading>0.001964031654822801</heading>
-				<tilt>19.46270062789828</tilt>
-				<range>422.4888464913169</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32556766090293,41.68850692485886,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>15-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32449702665571,41.68796224517826,0 -70.32434674893321,41.68789356079963,0 -70.32420565129628,41.68782866762296,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>16-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32417038872443,41.68756648868152,0 -70.32426043464704,41.68626348710249,0 -70.32498338072048,41.68506600420561,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>16-Tee</name>
-			<LookAt>
-				<longitude>-70.32373117095133</longitude>
-				<latitude>41.68705754275148</latitude>
-				<altitude>0</altitude>
-				<heading>0.002567679136360222</heading>
-				<tilt>19.46271750773722</tilt>
-				<range>428.1290881230846</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32418134321219,41.68756969957138,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>16-Right Fairway Bunkers</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32461820751659,41.6860492175193,0 -70.32484250808214,41.685611179778,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>16-Left Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32439847581156,41.68558464599671,0 -70.32453332743047,41.6854698121438,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>16-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32490832290512,41.6851987303895,0 -70.32498661062114,41.68506173044128,0 -70.3250654433761,41.68494284407127,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>17-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32582797071221,41.68488326935638,0 -70.3252845893779,41.68629788337686,0 -70.32469506370899,41.6875327527811,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>17-Tee</name>
-			<LookAt>
-				<longitude>-70.32446958025304</longitude>
-				<latitude>41.68543093493851</latitude>
-				<altitude>0</altitude>
-				<heading>0.002076581689192395</heading>
-				<tilt>19.46273516627004</tilt>
-				<range>434.0294865127604</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.3258361795894,41.68478947154074,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>17-Right Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32492953365259,41.68662989344094,0 -70.32489091765008,41.68673742667896,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>17-Left Fairway Bunker</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32524870187343,41.68687542675649,0 -70.32514153032569,41.68705132626947,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>17-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32477338907402,41.6874227597956,0 -70.32470776911941,41.68752843414162,0 -70.32464134445679,41.68764362180029,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>18-Flyby</name>
-			<styleUrl>#m_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32531266038337,41.68789876216975,0 -70.3262276105947,41.68616851476308,0 -70.32700656459274,41.68496157988758,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>18-Tee</name>
-			<LookAt>
-				<longitude>-70.32476090499749</longitude>
-				<latitude>41.68742549437114</latitude>
-				<altitude>0</altitude>
-				<heading>0.001882856425429363</heading>
-				<tilt>19.46270783034308</tilt>
-				<range>424.8955100963422</range>
-				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-			</LookAt>
-			<styleUrl>#m_ylw-pushpin7</styleUrl>
-			<Point>
-				<gx:drawOrder>1</gx:drawOrder>
-				<coordinates>-70.32533215135122,41.68793630103179,0</coordinates>
-			</Point>
-		</Placemark>
-		<Placemark>
-			<name>18-Water Right</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32670933738571,41.68582667235678,0 -70.32681884863612,41.685602420371,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>18-Green</name>
-			<styleUrl>#m_ylw-pushpin11</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-70.32693084705994,41.68507177767923,0 -70.32699842201492,41.68497022345672,0 -70.32706696634119,41.68487991182857,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-	</Folder>
-</Document>
+<kml 
+xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Hyannis.kml</name>
+    <Folder>
+      <name>Hyannis</name>
+      <open>0</open>
+      <Placemark>
+        <name>Home</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32765935806074,41.68440478624319,23.32534027099609
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32301237336456,41.68366489379754,19.12793159484863 -70.32284917402929,41.6835919089993,19.35293579101562 -70.32271144904108,41.6835266799781,19.89665794372559
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>1-Left Fairway Bunkers</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32436260552224,41.68425447616674,15.89197444915771 -70.32365727437946,41.68407091798346,18.67353248596191
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>1-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32645549555244,41.68465984764233,19.83230781555176
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32646050276992,41.68467930737612,19.90946960449219 -70.32447945931061,41.68416593709132,17.53562545776367 -70.32284934065827,41.68358837488746,19.36536979675293
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>2-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32342235641265,41.68715169708562,24.2276439666748 -70.32344063118603,41.68729648967176,24.63806915283203 -70.32345326763567,41.6874230573647,25.58402252197266
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>2-Right Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32303313866906,41.68577332900742,16.24105644226074 -70.32313026621564,41.68591486886456,16.7519359588623
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>2-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32292715832301,41.68406008640017,21.22536659240723
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32293209660556,41.68408157132586,21.26537322998047 -70.3233438865953,41.6857264669641,16.05495643615723 -70.3234551326551,41.68729116894897,24.63996696472168
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>3-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.31911769412568,41.68763763303252,33.49021911621094 -70.31892508206182,41.68764473537438,33.8465461730957 -70.31875635375685,41.68765440719073,34.1668815612793
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>3-Right Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32043283391185,41.68744901650204,29.57334899902344 -70.32025244628203,41.68744871304649,29.64975547790527
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>3-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32273905473309,41.68744546002947,25.73710823059082
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32273025972906,41.68745413522694,25.71253776550293 -70.32060842686218,41.68757321378964,28.39371299743652 -70.31891902742176,41.68764864385663,33.87066268920898
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>4-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32340972741784,41.68775294629236,26.72839546203613 -70.32359971511677,41.68771904557556,27.26612091064453 -70.32386574701546,41.6876802595354,27.93644714355469
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>4-Water Right</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32131581882703,41.68823782978872,24.37067222595215 -70.32167865497948,41.68819192125309,23.9662971496582
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>4-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.31938317500443,41.6881257009557,40.69885635375977
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.31936069828389,41.68811659809151,40.73606491088867 -70.32194057645607,41.68799966600073,24.58710861206055 -70.32362194424618,41.68771456777154,27.32941818237305
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>5-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32218987525773,41.68322658374756,19.11320686340332 -70.32224750261769,41.68309711003,20.01890754699707 -70.32229228818659,41.68297937640359,20.04502296447754
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>5-Right Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32206233656511,41.68548845691611,17.19789505004883 -70.32198752382708,41.6854006824187,18.25516700744629
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>5-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32300378735529,41.6874022076714,27.16955375671387
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32303322559552,41.68744118721088,27.46133041381836 -70.32180774472965,41.68551657990587,17.94999694824219 -70.32212486728473,41.6841735565812,21.88543510437012 -70.32225086042531,41.68309324264151,20.02776336669922
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>6-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.31855221590541,41.68219893009228,17.59297561645508 -70.31841878407275,41.68223534950178,17.65125274658203 -70.31828453434386,41.68226930536298,17.708740234375
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>6-Right Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.31963182757224,41.68201615341553,16.01897048950195 -70.3192992586591,41.68201539898591,16.3571949005127
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>6-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32206779747608,41.68269958390014,20.04239463806152
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32207358316379,41.68271743652593,19.94046020507812 -70.31969429792828,41.68214700987771,16.30043029785156 -70.3184178172828,41.68225039207883,17.66622543334961
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>7-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.31801029745051,41.68167041578446,17.9875373840332 -70.31804667041666,41.68157298867528,18.08503723144531 -70.31807561476892,41.6814745280646,17.79762840270996
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>7-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.31778938270631,41.68279549508415,21.2034912109375
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.31778340646784,41.68281538743771,21.2137336730957 -70.31803908052639,41.68157874627548,18.08183479309082
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>8-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32099996429159,41.68129799687978,17.80174827575684 -70.3211692755757,41.6813156969259,18.4913215637207 -70.32133212922723,41.6813287041405,18.77451705932617
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>8-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.3189337824001,41.68103512977709,16.58865928649902
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.31891226230904,41.68103764481462,16.62050437927246 -70.32119788067403,41.68130686865675,18.45628356933594
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>9-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32635239376206,41.68411392969308,20.66820335388184 -70.32650257035509,41.68413268111638,20.75903129577637 -70.32665954987485,41.6841510755055,20.98458480834961
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>9-Right Fairway Bunkers</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32445495427861,41.68378161044414,19.88504981994629 -70.32491850406626,41.68386091815201,21.27242660522461
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>9-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32226529924029,41.68271929563796,19.8289966583252
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32224715175899,41.68274209129639,19.77275657653809 -70.32471111088803,41.68366309825959,19.29012107849121 -70.32650661812426,41.68412350313706,20.77580261230469
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32580362249892,41.68796565490638,23.96576309204102 -70.32571079456784,41.68804623338828,25.23037910461426 -70.3256109859546,41.68812849858579,25.72092437744141
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10-Left Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32637635819364,41.68754242505283,23.28097534179688 -70.3263042191038,41.68767416184316,22.72705268859863
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10-Left Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32723009960829,41.68632470195936,21.9312744140625 -70.32715619849515,41.68645782908111,21.88467788696289
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>-70.327862045233,41.68457994565874,24.5748291015625</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32785830974318,41.68459641620921,24.56408500671387 -70.32708409248143,41.68623572017298,20.08672142028809 -70.3262909736528,41.68737948435026,21.23210525512695 -70.32571439533028,41.68803955190745,25.20429801940918
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.3261629923454,41.6885680626593,27.68201637268066 -70.32609754500862,41.68866826756781,28.34136772155762 -70.3260324798951,41.68877184931086,28.47099876403809
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32661763891647,41.68766959109351,25.75901412963867
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32662829301199,41.68771628826875,25.58110237121582 -70.3260879796501,41.68867741883308,28.4323902130127
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.3226153942934,41.68904896625877,29.29433250427246 -70.32246017557449,41.68905796244309,29.86004066467285 -70.32230193024019,41.68907242227398,30.62957572937012
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12-Fairway Ends</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32298091796476,41.68907389081567,25.16318702697754
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>-70.32646303015042,41.68901837050728,30.868896484375</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32647021450762,41.68903547468459,31.06875801086426 -70.32397463956359,41.68913209058578,24.93040657043457 -70.32244471652535,41.68906077827457,29.91069602966309
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.31929745544079,41.68914393225835,30.13513374328613 -70.31917468598115,41.68915600568532,30.65319061279297 -70.31906906322425,41.6891682180939,31.0832462310791
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13-Right Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.3209343685571,41.68894854286729,28.78855514526367 -70.32083373727441,41.68898168026467,29.11308288574219
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32265105825981,41.68866455602765,30.83852958679199
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32263224435223,41.68867070179147,31.09291648864746 -70.32104175758488,41.68908783197173,28.24063682556152 -70.31916001314531,41.68916945584651,30.69077301025391
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32479960819332,41.68850513336483,29.5212516784668 -70.3249403895074,41.68857854497728,29.66334533691406 -70.32507499004996,41.68864672833145,30.15724945068359
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14-Left Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32417150475648,41.68828860006951,31.55914115905762 -70.3243952255296,41.68832787039427,31.17910575866699
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14-Left Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32345329486057,41.68819519982525,30.05677604675293 -70.32366481546663,41.68820337832276,31.15438652038574
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14-Right Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.3225023568479,41.68838359012588,27.99800300598145 -70.32281153388705,41.68832084853516,29.51650428771973
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14-Water Left</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32132793088633,41.68830547468679,24.17010498046875 -70.32170404522743,41.68825941690856,24.19281768798828
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.31915416536079,41.68860403582381,36.91469192504883
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.31916097267683,41.68859683762975,36.97861480712891 -70.32227121268244,41.68839801206471,27.08725929260254 -70.32383865140945,41.68831735554019,31.42642402648926 -70.3249380253175,41.68859212256923,29.6385669708252
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>15-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.3244970266557,41.68796224517826,31.96029090881348 -70.32434674893321,41.68789356079963,31.90436553955078 -70.32420565129628,41.68782866762296,31.78235244750977
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>15-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32556766090293,41.68850692485886,29.35650825500488
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32556041350372,41.68850621854694,29.37796974182129 -70.32433014541401,41.68790423274462,31.89666557312012
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32490832290512,41.6851987303895,20.91280937194824 -70.32498661062114,41.68506173044128,21.05788993835449 -70.3250654433761,41.68494284407127,21.00525665283203
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16-Left Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32439847581156,41.68558464599671,17.60203170776367 -70.32453332743047,41.6854698121438,18.47786712646484
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16-Right Fairway Bunkers</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.3246182075166,41.6860492175193,15.40590476989746 -70.32484250808214,41.685611179778,16.75140571594238
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32418134321219,41.68756969957138,28.10056114196777
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32417038872443,41.68756648868152,27.96875953674316 -70.32426043464704,41.68626348710249,17.75907135009766 -70.32498338072048,41.68506600420561,21.06071090698242
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32477338907402,41.6874227597956,27.00698852539062 -70.32470776911941,41.68752843414162,27.66287994384766 -70.3246413444568,41.68764362180029,28.38865089416504
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17-Left Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32524870187343,41.68687542675649,21.5682258605957 -70.3251415303257,41.68705132626947,22.32907485961914
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17-Right Fairway Bunker</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.3249295336526,41.68662989344094,15.62684631347656 -70.32489091765008,41.68673742667896,17.12087059020996
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>-70.3258361795894,41.68478947154074,22.3967170715332</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32582797071221,41.68488326935638,22.48131370544434 -70.3252845893779,41.68629788337686,15.59752464294434 -70.32469506370899,41.6875327527811,27.71039772033691
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18-Green</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32693084705994,41.68507177767923,17.59371185302734 -70.32699842201492,41.68497022345672,18.1625862121582 -70.32706696634119,41.68487991182857,18.08355522155762
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18-Water Right</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32670933738571,41.68582667235678,10.04249382019043 -70.32681884863612,41.685602420371,9.645062446594238
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18-Tee</name>
+        <Point>
+          <gx:drawOrder>1</gx:drawOrder>
+          <coordinates>
+            -70.32533215135122,41.68793630103179,27.76916122436523
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18-Flyby</name>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -70.32531266038337,41.68789876216975,27.68620109558105 -70.3262276105947,41.68616851476308,18.55241203308105 -70.32700656459274,41.68496157988758,18.17311859130859
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
 </kml>
+
+    
