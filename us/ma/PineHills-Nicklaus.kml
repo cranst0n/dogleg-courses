@@ -8,8 +8,24 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <open>0</open>
       <Placemark>
         <name>Home</name>
+        <ExtendedData>
+          <Data name="city">
+            <value>Plymouth</value>
+          </Data>
+          <Data name="phoneNumber">
+            <value>1-508-209-3000</value>
+          </Data>
+          <Data name="state">
+            <value>Massachusetts</value>
+          </Data>
+          <Data name="country">
+            <value>USA</value>
+          </Data>
+          <Data name="exclusivity">
+            <value>Public</value>
+          </Data>
+        </ExtendedData>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59628336966453,41.88698752706036,35.9257926940918
           </coordinates>
@@ -18,7 +34,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>1-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59008162841319,41.89119126479831,26.85242080688477 -70.590097027624,41.89135163443645,27.00994873046875 -70.59011086106749,41.89149936442828,27.03893089294434
           </coordinates>
@@ -27,7 +42,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>1-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58992201434128,41.89051308882242,27.34162330627441 -70.58992310730736,41.89056518412035,27.3183536529541
           </coordinates>
@@ -36,7 +50,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>1-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.5900654798416,41.88996057970238,27.22823524475098 -70.59002852216936,41.89003489993746,27.4488410949707
           </coordinates>
@@ -45,7 +58,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>1-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.5911621628451,41.88801713074285,29.62690734863281
           </coordinates>
@@ -54,7 +66,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>1-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59115699455366,41.88803991202899,29.64199256896973 -70.59027565165516,41.88989338609725,27.36423492431641 -70.59009931268898,41.89135357915858,27.00988006591797
           </coordinates>
@@ -63,7 +74,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>2-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59016449709412,41.88794723200511,28.22260284423828 -70.59025520450872,41.88784032719762,27.97218132019043 -70.59034325135882,41.88773242787033,28.09762573242188
           </coordinates>
@@ -72,7 +82,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>2-Left Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58966629220015,41.888396497618,27.31864356994629 -70.58975755863787,41.88822873616947,27.54930877685547
           </coordinates>
@@ -81,7 +90,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>2-Right Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58957533960128,41.89052749273218,25.94953536987305 -70.58938082729499,41.89012601991691,26.44465827941895
           </coordinates>
@@ -90,14 +98,12 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>2-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>-70.589316141357,41.89223682935094,28.14631462097168</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>2-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58930214433016,41.89229812276823,28.08298683166504 -70.5890453749838,41.89018732032749,26.92227554321289 -70.58975113058396,41.88875697720859,27.03644561767578 -70.59030080199705,41.88781202988842,27.91110420227051
           </coordinates>
@@ -106,7 +112,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>3-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58809159215767,41.88724722465328,28.65859603881836 -70.58793410423118,41.88725497485726,28.8958568572998 -70.58776890904966,41.88726035849822,28.96006011962891
           </coordinates>
@@ -115,7 +120,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>3-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59050793183575,41.88739723635349,29.55580139160156
           </coordinates>
@@ -124,7 +128,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>3-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59045677531266,41.88740571150157,29.53577041625977 -70.58789900473468,41.88726714697746,28.90269470214844
           </coordinates>
@@ -133,7 +136,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>4-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58611220650376,41.8903527288862,35.5705680847168 -70.58618541778094,41.89042329104576,35.71092224121094 -70.58624762891318,41.8904951869683,35.84975051879883
           </coordinates>
@@ -142,7 +144,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>4-Left Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58628946725933,41.88904522918004,34.93808364868164 -70.58618670662645,41.8893122490341,35.06486511230469
           </coordinates>
@@ -151,7 +152,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>4-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.58699166255505,41.88713982193061,39.01765060424805
           </coordinates>
@@ -160,7 +160,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>4-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58697641021121,41.8871523941478,39.01149749755859 -70.58581449601596,41.88919902312542,35.75913238525391 -70.58619708725905,41.89041486844148,35.70882415771484
           </coordinates>
@@ -169,7 +168,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>5-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58882387586445,41.89366120911988,27.41652679443359 -70.58882899656486,41.89380440008362,27.57619476318359 -70.58883103505994,41.89393244712794,27.91386604309082
           </coordinates>
@@ -178,7 +176,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>5-Water Right</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.5884591936811,41.89320379588268,26.74484825134277 -70.58866192699737,41.89356570582846,26.81382751464844
           </coordinates>
@@ -187,7 +184,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>5-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.58639525919124,41.89084563373585,32.35558319091797
           </coordinates>
@@ -196,7 +192,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>5-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58637722530955,41.89087477307443,32.34001922607422 -70.58823395377082,41.89253706780609,27.4737491607666 -70.58881441118065,41.8937887363109,27.55734634399414
           </coordinates>
@@ -205,7 +200,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>6-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58963930126272,41.89944488992183,33.27634811401367 -70.5897735366113,41.89953301425671,33.09886932373047 -70.58989846820197,41.89962546879909,33.29138946533203
           </coordinates>
@@ -214,7 +208,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>6-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.5883012293926,41.89821590507582,34.86587905883789 -70.58839052528478,41.8983480924899,35.32266616821289
           </coordinates>
@@ -223,7 +216,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>6-Left Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58856304421298,41.89741590749588,31.98737335205078 -70.58870763714384,41.89777270314589,32.7392578125
           </coordinates>
@@ -232,7 +224,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>6-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.58849255847943,41.89554077013504,30.96486282348633
           </coordinates>
@@ -241,7 +232,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>6-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.58848973169692,41.89557191600164,30.97104072570801 -70.58831246088833,41.8975933591344,33.42727279663086 -70.5887814451114,41.89879217601685,32.51160049438477 -70.58979784209158,41.89955300002282,33.14305877685547
           </coordinates>
@@ -250,7 +240,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>7-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59319590729866,41.90117500480205,26.24723243713379 -70.5933180653158,41.90125945410382,27.03905296325684 -70.59341964374971,41.9013238884103,28.10092735290527
           </coordinates>
@@ -259,7 +248,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>7-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59202152095507,41.90026217729787,27.27713775634766
           </coordinates>
@@ -268,7 +256,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>7-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59203258817949,41.90030473862079,27.15777206420898 -70.59332903280662,41.90127458308128,27.23770332336426
           </coordinates>
@@ -277,7 +264,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>8-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59224378181435,41.89918941219474,25.84148025512695 -70.59210508305908,41.89908063405164,25.79071998596191 -70.59198130498625,41.8989820151802,26.20676803588867
           </coordinates>
@@ -286,7 +272,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>8-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.5930550723497,41.89942062540678,26.72577667236328 -70.59294253741287,41.89933728630489,27.11904907226562
           </coordinates>
@@ -295,7 +280,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>8-Left Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59303645240605,41.90000940877861,25.35527992248535 -70.59286801082615,41.89989477242015,26.74242210388184
           </coordinates>
@@ -304,7 +288,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>8-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59487447830816,41.90161973538724,29.29661750793457
           </coordinates>
@@ -313,7 +296,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>8-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59489858282642,41.90162951483435,29.4116268157959 -70.5930989057326,41.8996791597628,25.86003494262695 -70.59209072703527,41.89908550615473,25.8328685760498
           </coordinates>
@@ -322,7 +304,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>9-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.5909064990489,41.89623127995296,28.37995338439941 -70.59090247229288,41.89612353799404,28.65179061889648 -70.59089850647021,41.89601230223738,28.59659194946289
           </coordinates>
@@ -331,7 +312,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>9-Left Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59078277274662,41.89715549171848,28.14266014099121 -70.59064091242665,41.89680890706722,28.85097312927246
           </coordinates>
@@ -340,7 +320,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>9-Right Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59136579435503,41.89727158627959,27.5281982421875 -70.59117259992372,41.89707174291838,27.90895652770996
           </coordinates>
@@ -349,7 +328,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>9-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59258590223968,41.89883232570634,27.40761566162109
           </coordinates>
@@ -358,7 +336,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>9-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59261193614795,41.89881647924076,27.55269813537598 -70.59100098081083,41.89719789075616,27.6049976348877 -70.59093318752937,41.89611572465301,28.65278434753418
           </coordinates>
@@ -367,7 +344,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>10-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59500344824684,41.89896429565971,31.46217346191406 -70.59506120080799,41.89911216371868,31.4370174407959 -70.59511863675495,41.89925021940588,31.60209083557129
           </coordinates>
@@ -376,7 +352,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>10-Left Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59460945992359,41.89809819445021,35.67801284790039 -70.59466421880119,41.89818563726744,35.54632186889648
           </coordinates>
@@ -385,7 +360,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>10-Right Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59361269863847,41.89763632821314,30.62625312805176 -70.5938879502404,41.89812221144146,31.29758453369141
           </coordinates>
@@ -394,7 +368,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>10-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59270021950975,41.89619173861179,31.3670654296875
           </coordinates>
@@ -403,7 +376,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>10-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59269383992293,41.89621004294553,31.33068084716797 -70.59410669840854,41.89774590251019,32.94308471679688 -70.5950724521911,41.89907884924236,31.53787612915039
           </coordinates>
@@ -412,7 +384,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>11-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59778585977897,41.89579893276535,39.110595703125 -70.59768464598659,41.89568015768277,39.09091186523438 -70.59759521722336,41.89557642250777,39.44278717041016
           </coordinates>
@@ -421,7 +392,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>11-Dogleg</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59874214873422,41.89766836987634,32.65288543701172
           </coordinates>
@@ -430,7 +400,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>11-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59632592133276,41.89894956303085,34.80862808227539
           </coordinates>
@@ -439,7 +408,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>11-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59632957383683,41.8989753988097,34.72311401367188 -70.59885804230169,41.89769582383826,32.6225700378418 -70.59811901093026,41.89631779019093,35.53438568115234 -70.59767923743932,41.89565711706098,39.12048721313477
           </coordinates>
@@ -448,7 +416,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>12-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.60183768940239,41.89865274173451,33.02696990966797 -70.60187047366207,41.89880066011963,33.28542709350586 -70.60189820356128,41.89894081956171,33.21149063110352
           </coordinates>
@@ -457,7 +424,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>12-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.60072687505367,41.89763963474464,36.20403671264648 -70.60076239743904,41.89769225923511,36.09164428710938
           </coordinates>
@@ -466,7 +432,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>12-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.60041922332273,41.89737417492965,36.55600357055664 -70.60055080880895,41.89748619725854,36.51975250244141
           </coordinates>
@@ -475,7 +440,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>12-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59866174393953,41.89585085255512,46.93856048583984
           </coordinates>
@@ -484,7 +448,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>12-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59867573080453,41.89584776934584,46.94699478149414 -70.60039042921065,41.89703719391942,37.12026214599609 -70.60121676775096,41.89774504609254,35.76568603515625 -70.60183754065943,41.8987985491916,33.23907852172852
           </coordinates>
@@ -493,7 +456,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>13-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.60208896981368,41.89726629403915,43.13454437255859 -70.60197661486542,41.89720249459376,43.28704452514648 -70.60185603399955,41.89713263887371,43.31813430786133
           </coordinates>
@@ -502,7 +464,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>13-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.6032019555373,41.89849850200221,44.83124542236328
           </coordinates>
@@ -511,7 +472,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>13-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.60323091833241,41.89849662839212,44.82891464233398 -70.60195655344128,41.89718467395008,43.29278945922852
           </coordinates>
@@ -520,7 +480,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>14-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.60180511941373,41.89347065796006,48.70828247070312 -70.60184967193773,41.89337788293345,48.82940673828125 -70.6018930747698,41.89328697943299,49.05768203735352
           </coordinates>
@@ -529,7 +488,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>14-Left Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.60126392265764,41.89370005981405,47.62813949584961 -70.6015078232532,41.89349306111036,48.53806686401367
           </coordinates>
@@ -538,7 +496,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>14-Right Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.6017475847567,41.89399393894846,48.33451080322266 -70.601705453151,41.89372910848529,48.26864242553711
           </coordinates>
@@ -547,7 +504,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>14-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.6012893750067,41.89609722151201,54.01921844482422
           </coordinates>
@@ -556,7 +512,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>14-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.60129060381946,41.89608603866557,54.07436752319336 -70.60137368170311,41.8939182310461,47.13321304321289 -70.60187123189569,41.89337008304046,48.84399032592773
           </coordinates>
@@ -565,7 +520,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>15-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59976835247804,41.89313019279925,47.67416381835938 -70.59965728402648,41.89313236904383,47.98929214477539 -70.59955480513747,41.89313100008665,48.23309707641602
           </coordinates>
@@ -574,7 +528,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>15-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.60166440913916,41.89288574990815,54.04656600952148
           </coordinates>
@@ -583,7 +536,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>15-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.60165694860498,41.8928933699888,54.05341339111328 -70.59963649349369,41.893086456026,47.9921760559082
           </coordinates>
@@ -592,7 +544,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>16-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59250839103625,41.89325896946348,29.52740097045898 -70.59242118608324,41.89338886573332,29.59278678894043 -70.59233632282572,41.89351822205673,29.7296028137207
           </coordinates>
@@ -601,7 +552,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>16-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59274793646858,41.89277763326098,28.62125396728516 -70.59257629741512,41.89296231758371,28.70508766174316
           </coordinates>
@@ -610,7 +560,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>16-Left Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59329895904071,41.89285474035533,28.14344215393066 -70.59309829192574,41.89297406461534,28.19110488891602
           </coordinates>
@@ -619,7 +568,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>16-Dogleg</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59414644250809,41.89185155769742,28.04503440856934
           </coordinates>
@@ -628,7 +576,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>16-Left Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59481172487708,41.89190631217201,26.81117820739746 -70.59438900637176,41.89202875718264,27.24569702148438
           </coordinates>
@@ -637,7 +584,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>16-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59788544428383,41.8917132820095,51.79941940307617
           </coordinates>
@@ -646,7 +592,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>16-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.5978766451755,41.89173391655956,51.7921028137207 -70.59428284318706,41.89175687985401,27.8471622467041 -70.5923725905439,41.89337751494478,29.59250640869141
           </coordinates>
@@ -655,7 +600,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>17-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59452764007062,41.89020647617166,31.13641548156738 -70.59464909875415,41.89015936663382,31.15331077575684 -70.594757082245,41.89011249233243,31.22358894348145
           </coordinates>
@@ -664,7 +608,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>17-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59405214462019,41.89105612728084,29.1984691619873 -70.59412650323374,41.89097387082988,29.28667259216309
           </coordinates>
@@ -673,7 +616,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>17-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59371860794651,41.89145272533885,28.08138275146484 -70.5937784158937,41.8913987935229,28.04397773742676
           </coordinates>
@@ -682,7 +624,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>17-Left Fairway Bunkers</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59311052699981,41.89126709202776,26.99989891052246 -70.59355315678287,41.89101527128953,27.37955665588379
           </coordinates>
@@ -691,7 +632,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>17-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59192240127194,41.89282975557917,29.43400001525879
           </coordinates>
@@ -700,7 +640,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>17-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59194012855694,41.89280287907725,29.47033500671387 -70.59369214590718,41.89124125429637,27.71889114379883 -70.5946510967662,41.89015567464033,31.15353775024414
           </coordinates>
@@ -709,7 +648,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>18-Green</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59549578200381,41.88710053556358,33.845458984375 -70.59540038879166,41.88697985904271,33.99003982543945 -70.59531326792128,41.88687261120518,34.03684997558594
           </coordinates>
@@ -718,7 +656,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>18-Water Left</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59545588677923,41.88792441032545,33.01653289794922 -70.59527204391203,41.88713631316402,32.92951965332031
           </coordinates>
@@ -727,7 +664,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>18-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59594240297167,41.8883230409827,35.69601821899414 -70.59587429168366,41.88815066471813,35.58989334106445
           </coordinates>
@@ -736,7 +672,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>18-Right Fairway Bunker</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59588970798183,41.88885365583658,35.78614044189453 -70.59594277307514,41.88866583799262,35.96586227416992
           </coordinates>
@@ -745,7 +680,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>18-Tee</name>
         <Point>
-          <gx:drawOrder>1</gx:drawOrder>
           <coordinates>
             -70.59510252667167,41.89077152419419,35.5485725402832
           </coordinates>
@@ -754,12 +688,14 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       <Placemark>
         <name>18-Flyby</name>
         <LineString>
-          <tessellate>1</tessellate>
           <coordinates>
             -70.59507924950003,41.89080259915703,35.54112243652344 -70.59562228201261,41.8889107994579,35.62287139892578 -70.5957180647072,41.88786382108388,34.42203140258789 -70.59537227572036,41.8869453233141,34.01427459716797
           </coordinates>
         </LineString>
       </Placemark>
+      <ratings>
+        [{&quot;teeName&quot;:&quot;Black&quot;,&quot;rating&quot;:75.2,&quot;slope&quot;:135.0,&quot;frontRating&quot;:37.7,&quot;frontSlope&quot;:132.0,&quot;backRating&quot;:37.5,&quot;backSlope&quot;:137.0,&quot;bogeyRating&quot;:100.2,&quot;gender&quot;:&quot;Male&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:422,&quot;handicap&quot;:13},{&quot;number&quot;:2,&quot;par&quot;:5,&quot;yardage&quot;:562,&quot;handicap&quot;:3},{&quot;number&quot;:3,&quot;par&quot;:3,&quot;yardage&quot;:243,&quot;handicap&quot;:7},{&quot;number&quot;:4,&quot;par&quot;:4,&quot;yardage&quot;:426,&quot;handicap&quot;:1},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:427,&quot;handicap&quot;:11},{&quot;number&quot;:6,&quot;par&quot;:5,&quot;yardage&quot;:551,&quot;handicap&quot;:9},{&quot;number&quot;:7,&quot;par&quot;:3,&quot;yardage&quot;:174,&quot;handicap&quot;:17},{&quot;number&quot;:8,&quot;par&quot;:4,&quot;yardage&quot;:411,&quot;handicap&quot;:15},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:384,&quot;handicap&quot;:5},{&quot;number&quot;:10,&quot;par&quot;:4,&quot;yardage&quot;:416,&quot;handicap&quot;:8},{&quot;number&quot;:11,&quot;par&quot;:5,&quot;yardage&quot;:545,&quot;handicap&quot;:6},{&quot;number&quot;:12,&quot;par&quot;:4,&quot;yardage&quot;:471,&quot;handicap&quot;:4},{&quot;number&quot;:13,&quot;par&quot;:3,&quot;yardage&quot;:197,&quot;handicap&quot;:18},{&quot;number&quot;:14,&quot;par&quot;:4,&quot;yardage&quot;:345,&quot;handicap&quot;:14},{&quot;number&quot;:15,&quot;par&quot;:3,&quot;yardage&quot;:189,&quot;handicap&quot;:16},{&quot;number&quot;:16,&quot;par&quot;:5,&quot;yardage&quot;:591,&quot;handicap&quot;:10},{&quot;number&quot;:17,&quot;par&quot;:4,&quot;yardage&quot;:413,&quot;handicap&quot;:12},{&quot;number&quot;:18,&quot;par&quot;:4,&quot;yardage&quot;:476,&quot;handicap&quot;:2}]},{&quot;teeName&quot;:&quot;Blue&quot;,&quot;rating&quot;:72.2,&quot;slope&quot;:131.0,&quot;frontRating&quot;:36.2,&quot;frontSlope&quot;:131.0,&quot;backRating&quot;:36.0,&quot;backSlope&quot;:130.0,&quot;bogeyRating&quot;:96.5,&quot;gender&quot;:&quot;Male&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:384,&quot;handicap&quot;:13},{&quot;number&quot;:2,&quot;par&quot;:5,&quot;yardage&quot;:531,&quot;handicap&quot;:3},{&quot;number&quot;:3,&quot;par&quot;:3,&quot;yardage&quot;:221,&quot;handicap&quot;:7},{&quot;number&quot;:4,&quot;par&quot;:4,&quot;yardage&quot;:400,&quot;handicap&quot;:1},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:392,&quot;handicap&quot;:11},{&quot;number&quot;:6,&quot;par&quot;:5,&quot;yardage&quot;:521,&quot;handicap&quot;:9},{&quot;number&quot;:7,&quot;par&quot;:3,&quot;yardage&quot;:157,&quot;handicap&quot;:17},{&quot;number&quot;:8,&quot;par&quot;:4,&quot;yardage&quot;:361,&quot;handicap&quot;:15},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:358,&quot;handicap&quot;:5},{&quot;number&quot;:10,&quot;par&quot;:4,&quot;yardage&quot;:391,&quot;handicap&quot;:8},{&quot;number&quot;:11,&quot;par&quot;:5,&quot;yardage&quot;:514,&quot;handicap&quot;:6},{&quot;number&quot;:12,&quot;par&quot;:4,&quot;yardage&quot;:436,&quot;handicap&quot;:4},{&quot;number&quot;:13,&quot;par&quot;:3,&quot;yardage&quot;:181,&quot;handicap&quot;:18},{&quot;number&quot;:14,&quot;par&quot;:4,&quot;yardage&quot;:312,&quot;handicap&quot;:14},{&quot;number&quot;:15,&quot;par&quot;:3,&quot;yardage&quot;:166,&quot;handicap&quot;:16},{&quot;number&quot;:16,&quot;par&quot;:5,&quot;yardage&quot;:528,&quot;handicap&quot;:10},{&quot;number&quot;:17,&quot;par&quot;:4,&quot;yardage&quot;:376,&quot;handicap&quot;:12},{&quot;number&quot;:18,&quot;par&quot;:4,&quot;yardage&quot;:411,&quot;handicap&quot;:2}]},{&quot;teeName&quot;:&quot;White&quot;,&quot;rating&quot;:69.6,&quot;slope&quot;:128.0,&quot;frontRating&quot;:34.7,&quot;frontSlope&quot;:127.0,&quot;backRating&quot;:34.9,&quot;backSlope&quot;:129.0,&quot;bogeyRating&quot;:93.4,&quot;gender&quot;:&quot;Male&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:357,&quot;handicap&quot;:13},{&quot;number&quot;:2,&quot;par&quot;:5,&quot;yardage&quot;:500,&quot;handicap&quot;:3},{&quot;number&quot;:3,&quot;par&quot;:3,&quot;yardage&quot;:199,&quot;handicap&quot;:7},{&quot;number&quot;:4,&quot;par&quot;:4,&quot;yardage&quot;:354,&quot;handicap&quot;:1},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:357,&quot;handicap&quot;:11},{&quot;number&quot;:6,&quot;par&quot;:5,&quot;yardage&quot;:491,&quot;handicap&quot;:9},{&quot;number&quot;:7,&quot;par&quot;:3,&quot;yardage&quot;:145,&quot;handicap&quot;:17},{&quot;number&quot;:8,&quot;par&quot;:4,&quot;yardage&quot;:343,&quot;handicap&quot;:15},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:326,&quot;handicap&quot;:5},{&quot;number&quot;:10,&quot;par&quot;:4,&quot;yardage&quot;:365,&quot;handicap&quot;:8},{&quot;number&quot;:11,&quot;par&quot;:5,&quot;yardage&quot;:486,&quot;handicap&quot;:6},{&quot;number&quot;:12,&quot;par&quot;:4,&quot;yardage&quot;:403,&quot;handicap&quot;:4},{&quot;number&quot;:13,&quot;par&quot;:3,&quot;yardage&quot;:165,&quot;handicap&quot;:18},{&quot;number&quot;:14,&quot;par&quot;:4,&quot;yardage&quot;:280,&quot;handicap&quot;:14},{&quot;number&quot;:15,&quot;par&quot;:3,&quot;yardage&quot;:144,&quot;handicap&quot;:16},{&quot;number&quot;:16,&quot;par&quot;:5,&quot;yardage&quot;:486,&quot;handicap&quot;:10},{&quot;number&quot;:17,&quot;par&quot;:4,&quot;yardage&quot;:344,&quot;handicap&quot;:12},{&quot;number&quot;:18,&quot;par&quot;:4,&quot;yardage&quot;:373,&quot;handicap&quot;:2}]},{&quot;teeName&quot;:&quot;Red&quot;,&quot;rating&quot;:69.9,&quot;slope&quot;:124.0,&quot;frontRating&quot;:34.7,&quot;frontSlope&quot;:121.0,&quot;backRating&quot;:35.2,&quot;backSlope&quot;:126.0,&quot;bogeyRating&quot;:99.1,&quot;gender&quot;:&quot;Female&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:295,&quot;handicap&quot;:9},{&quot;number&quot;:2,&quot;par&quot;:5,&quot;yardage&quot;:411,&quot;handicap&quot;:11},{&quot;number&quot;:3,&quot;par&quot;:3,&quot;yardage&quot;:156,&quot;handicap&quot;:15},{&quot;number&quot;:4,&quot;par&quot;:4,&quot;yardage&quot;:299,&quot;handicap&quot;:1},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:300,&quot;handicap&quot;:3},{&quot;number&quot;:6,&quot;par&quot;:5,&quot;yardage&quot;:427,&quot;handicap&quot;:7},{&quot;number&quot;:7,&quot;par&quot;:3,&quot;yardage&quot;:109,&quot;handicap&quot;:17},{&quot;number&quot;:8,&quot;par&quot;:4,&quot;yardage&quot;:277,&quot;handicap&quot;:13},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:273,&quot;handicap&quot;:5},{&quot;number&quot;:10,&quot;par&quot;:4,&quot;yardage&quot;:292,&quot;handicap&quot;:12},{&quot;number&quot;:11,&quot;par&quot;:5,&quot;yardage&quot;:452,&quot;handicap&quot;:10},{&quot;number&quot;:12,&quot;par&quot;:4,&quot;yardage&quot;:343,&quot;handicap&quot;:4},{&quot;number&quot;:13,&quot;par&quot;:3,&quot;yardage&quot;:137,&quot;handicap&quot;:16},{&quot;number&quot;:14,&quot;par&quot;:4,&quot;yardage&quot;:251,&quot;handicap&quot;:14},{&quot;number&quot;:15,&quot;par&quot;:3,&quot;yardage&quot;:129,&quot;handicap&quot;:18},{&quot;number&quot;:16,&quot;par&quot;:5,&quot;yardage&quot;:431,&quot;handicap&quot;:8},{&quot;number&quot;:17,&quot;par&quot;:4,&quot;yardage&quot;:309,&quot;handicap&quot;:6},{&quot;number&quot;:18,&quot;par&quot;:4,&quot;yardage&quot;:322,&quot;handicap&quot;:2}]}]
+      </ratings>
     </Folder>
   </Document>
 </kml>

@@ -21,17 +21,8 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
           <Data name="country">
             <value>USA</value>
           </Data>
-          <Data name="creatorId">
-            <value>-1</value>
-          </Data>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
           <Data name="exclusivity">
             <value>Public</value>
-          </Data>
-          <Data name="approved">
-            <value>false</value>
           </Data>
         </ExtendedData>
         <Point>
@@ -42,14 +33,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>1-Tee</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -75.10845912517087,38.53458724212533,5.181887626647949
@@ -58,14 +41,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>1-Flyby</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10845535073435,38.53459652704753,5.103377819061279 -75.10811041033666,38.53247421222454,4.876073837280273 -75.10816875921705,38.53170473680601,4.735888004302979
@@ -74,14 +49,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>1-Left Fairway Bunkers</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10793206991134,38.53223351530492,5.622444152832031 -75.10804436980929,38.53202947952536,5.234375953674316
@@ -90,14 +57,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>1-Green</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.1081721361811,38.53183545474136,4.415580749511719 -75.1081669655624,38.53170453405657,4.735753059387207 -75.1081665644707,38.53158224694092,4.745589256286621
@@ -106,14 +65,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>2-Tee</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -75.1084558270631,38.53128233217397,5.757974624633789
@@ -122,14 +73,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>2-Flyby</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10845990898063,38.53130526037697,5.761552810668945 -75.10818143995408,38.52905097533468,4.422335624694824 -75.10821895292875,38.52800936603258,5.179507255554199
@@ -138,14 +81,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>2-Green</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10821072115611,38.528139660094,4.835586547851562 -75.10822391104608,38.52803308047963,5.142458915710449 -75.10823718076057,38.52792748072754,5.323302268981934
@@ -154,14 +89,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>3-Tee</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -75.10784067658808,38.52772297114065,5.661924839019775
@@ -170,14 +97,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>3-Flyby</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10784341597639,38.5277342500532,5.62883472442627 -75.10512157350274,38.52768229533489,4.687012672424316 -75.10340229946708,38.52740841584788,3.877165794372559 -75.10231594465965,38.52734274612274,4.468568801879883
@@ -186,14 +105,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>3-Left Fairway Bunker</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10497981420534,38.52782937903221,4.908114910125732 -75.10478920711454,38.52780759335209,5.040261268615723
@@ -202,14 +113,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>3-Left Fairway Bunker</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10394353958486,38.52772759315002,5.525684833526611 -75.10362381240847,38.52768585111532,5.983427047729492
@@ -218,14 +121,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>3-Right Fairway Bunkers</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10325650688182,38.52729276034206,3.985220432281494 -75.10288947608213,38.52731000804771,4.647056579589844
@@ -234,14 +129,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>3-Green</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.1024931757366,38.52733961806847,4.13442850112915 -75.10235111746225,38.52733871282946,4.28911304473877 -75.10221228293128,38.52733722985774,4.735243320465088
@@ -250,14 +137,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>4-Tee</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -75.10180583995493,38.52723460102173,6.062259674072266
@@ -266,14 +145,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>4-Flyby</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10180779848586,38.52724440870121,6.038746356964111 -75.10021128627965,38.52734006621098,4.589263916015625
@@ -282,14 +153,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>4-Green</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10039352499405,38.52732018581534,4.39045238494873 -75.10024251535022,38.52734017100328,4.59058141708374 -75.10009430557876,38.527360371363,4.711984157562256
@@ -298,14 +161,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>5-Tee</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -75.09983127254574,38.52700346749161,5.652727603912354
@@ -314,14 +169,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>5-Flyby</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.0998065425248,38.52700410774197,5.699477195739746 -75.09849213641657,38.52818804803406,4.091032981872559 -75.09715102998285,38.52923554451701,4.897188186645508
@@ -330,14 +177,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>5-Left Fairway Bunkers</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.09877721588101,38.52830273399472,3.475906372070312 -75.09795085521944,38.52866422829758,5.992995262145996
@@ -346,14 +185,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>5-Green</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.09728202038892,38.52911478970494,4.398379325866699 -75.0971942493047,38.52925054484857,4.845658302307129 -75.09711476507641,38.52938511925626,4.97097635269165
@@ -362,14 +193,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>6-Tee</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -75.09802121152964,38.52907521641542,5.813174247741699
@@ -378,14 +201,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>6-Flyby</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.09799995537378,38.52909847608197,5.545708656311035 -75.10024461270184,38.52847743682776,4.267256259918213 -75.10138356659095,38.52781234912744,4.994694709777832
@@ -394,14 +209,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>6-Water Left</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.09901375429097,38.52872261080045,2.703266382217407 -75.10018929827598,38.52806268971143,3.763989925384521
@@ -410,14 +217,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>6-Right Fairway Bunkers</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10062877382407,38.52851121742965,4.710339546203613 -75.10093185448302,38.52809317206746,5.516842365264893
@@ -426,14 +225,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>6-Green</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10121444588654,38.5279072095579,4.666794300079346 -75.10136011308889,38.52783625499371,4.936868667602539 -75.10148878207343,38.52776366889175,5.623847484588623
@@ -442,14 +233,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>7-Tee</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -75.10202618990365,38.52783327306728,5.504142284393311
@@ -458,14 +241,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>7-Flyby</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10199254283891,38.52785059404244,5.283638477325439 -75.10521215977325,38.52831554151511,3.860344648361206 -75.10672032126091,38.52829522832968,3.987407684326172 -75.10737894222162,38.52873904293739,4.796579360961914
@@ -474,14 +249,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>7-Right Fairway Bunker</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10336935724831,38.52810431741558,3.555939674377441 -75.10505022926682,38.5285545217829,3.459674835205078
@@ -490,14 +257,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>7-Left Fairway Bunkers</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10530608607768,38.52818574845796,3.695699214935303 -75.10569465222312,38.52824364015633,4.849278926849365
@@ -506,14 +265,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>7-Left Fairway Bunkers</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10695681761975,38.52813035170363,3.848104476928711 -75.10722210908325,38.52830494621024,4.857802867889404
@@ -522,14 +273,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>7-Green</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10724444590696,38.52866768679811,4.434129238128662 -75.10735803096,38.52873600877386,4.750198364257812 -75.10748077052715,38.52881071613923,5.057818412780762
@@ -538,14 +281,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>8-Tee</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -75.10724723783574,38.52926294138953,5.896912097930908
@@ -554,14 +289,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>8-Flyby</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.1072450091653,38.52926795513689,5.887076854705811 -75.10770549552865,38.53084545838115,4.700684070587158
@@ -570,14 +297,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>8-Green</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10766360143563,38.53070346600114,4.495211124420166 -75.10770672038919,38.53082742586372,4.676846027374268 -75.10774281385083,38.53094839291987,5.045746326446533
@@ -586,14 +305,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>9-Tee</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <Point>
           <coordinates>
             -75.10748408031505,38.53127511379031,6.32728099822998
@@ -602,14 +313,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>9-Flyby</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.1074928273702,38.53129278525851,6.310879230499268 -75.10735857241545,38.53298722297743,4.511378288269043 -75.10741791067011,38.5340307828838,4.401330471038818 -75.10764630787385,38.53469583371542,5.050202369689941
@@ -618,14 +321,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>9-Right Fairway Bunkers</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10720083477354,38.53293607548931,3.931820154190063 -75.10713364986302,38.53323715378855,4.152100086212158
@@ -634,14 +329,6 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>9-Left Fairway Bunkers</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10766347484761,38.53364991080859,3.556016445159912 -75.10787761799142,38.5343024614716,5.196945190429688
@@ -650,21 +337,15 @@ xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2
       </Placemark>
       <Placemark>
         <name>9-Green</name>
-        <ExtendedData>
-          <Data name="id">
-            <value>-1</value>
-          </Data>
-          <Data name="holeId">
-            <value>-1</value>
-          </Data>
-        </ExtendedData>
         <LineString>
           <coordinates>
             -75.10764810116744,38.53456417216012,4.847738742828369 -75.10764524795734,38.53468667909802,5.040966510772705 -75.10764382806384,38.53480742499382,5.434473514556885
           </coordinates>
         </LineString>
       </Placemark>
-      <ratings> </ratings>
+      <ratings>
+        [{&quot;teeName&quot;:&quot;Gold&quot;,&quot;rating&quot;:71.4,&quot;slope&quot;:129.0,&quot;frontRating&quot;:35.7,&quot;frontSlope&quot;:129.0,&quot;backRating&quot;:35.7,&quot;backSlope&quot;:129.0,&quot;bogeyRating&quot;:97.2,&quot;gender&quot;:&quot;Male&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:363,&quot;handicap&quot;:7},{&quot;number&quot;:2,&quot;par&quot;:4,&quot;yardage&quot;:410,&quot;handicap&quot;:3},{&quot;number&quot;:3,&quot;par&quot;:5,&quot;yardage&quot;:541,&quot;handicap&quot;:1},{&quot;number&quot;:4,&quot;par&quot;:3,&quot;yardage&quot;:153,&quot;handicap&quot;:9},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:382,&quot;handicap&quot;:6},{&quot;number&quot;:6,&quot;par&quot;:4,&quot;yardage&quot;:365,&quot;handicap&quot;:5},{&quot;number&quot;:7,&quot;par&quot;:5,&quot;yardage&quot;:550,&quot;handicap&quot;:2},{&quot;number&quot;:8,&quot;par&quot;:3,&quot;yardage&quot;:202,&quot;handicap&quot;:8},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:427,&quot;handicap&quot;:4}]},{&quot;teeName&quot;:&quot;Blue&quot;,&quot;rating&quot;:69.6,&quot;slope&quot;:123.0,&quot;frontRating&quot;:34.8,&quot;frontSlope&quot;:123.0,&quot;backRating&quot;:34.8,&quot;backSlope&quot;:123.0,&quot;bogeyRating&quot;:93.3,&quot;gender&quot;:&quot;Male&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:345,&quot;handicap&quot;:7},{&quot;number&quot;:2,&quot;par&quot;:4,&quot;yardage&quot;:385,&quot;handicap&quot;:3},{&quot;number&quot;:3,&quot;par&quot;:5,&quot;yardage&quot;:512,&quot;handicap&quot;:1},{&quot;number&quot;:4,&quot;par&quot;:3,&quot;yardage&quot;:133,&quot;handicap&quot;:9},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:369,&quot;handicap&quot;:6},{&quot;number&quot;:6,&quot;par&quot;:4,&quot;yardage&quot;:340,&quot;handicap&quot;:5},{&quot;number&quot;:7,&quot;par&quot;:5,&quot;yardage&quot;:522,&quot;handicap&quot;:2},{&quot;number&quot;:8,&quot;par&quot;:3,&quot;yardage&quot;:175,&quot;handicap&quot;:8},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:406,&quot;handicap&quot;:4}]},{&quot;teeName&quot;:&quot;White&quot;,&quot;rating&quot;:67.2,&quot;slope&quot;:112.0,&quot;frontRating&quot;:33.6,&quot;frontSlope&quot;:112.0,&quot;backRating&quot;:33.6,&quot;backSlope&quot;:112.0,&quot;bogeyRating&quot;:88.2,&quot;gender&quot;:&quot;Male&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:313,&quot;handicap&quot;:7},{&quot;number&quot;:2,&quot;par&quot;:4,&quot;yardage&quot;:349,&quot;handicap&quot;:3},{&quot;number&quot;:3,&quot;par&quot;:5,&quot;yardage&quot;:474,&quot;handicap&quot;:1},{&quot;number&quot;:4,&quot;par&quot;:3,&quot;yardage&quot;:115,&quot;handicap&quot;:9},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:325,&quot;handicap&quot;:6},{&quot;number&quot;:6,&quot;par&quot;:4,&quot;yardage&quot;:304,&quot;handicap&quot;:5},{&quot;number&quot;:7,&quot;par&quot;:5,&quot;yardage&quot;:483,&quot;handicap&quot;:2},{&quot;number&quot;:8,&quot;par&quot;:3,&quot;yardage&quot;:142,&quot;handicap&quot;:8},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:367,&quot;handicap&quot;:4}]},{&quot;teeName&quot;:&quot;Red&quot;,&quot;rating&quot;:69.6,&quot;slope&quot;:118.0,&quot;frontRating&quot;:34.8,&quot;frontSlope&quot;:118.0,&quot;backRating&quot;:34.8,&quot;backSlope&quot;:118.0,&quot;bogeyRating&quot;:97.2,&quot;gender&quot;:&quot;Female&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:286,&quot;handicap&quot;:6},{&quot;number&quot;:2,&quot;par&quot;:4,&quot;yardage&quot;:317,&quot;handicap&quot;:4},{&quot;number&quot;:3,&quot;par&quot;:5,&quot;yardage&quot;:440,&quot;handicap&quot;:1},{&quot;number&quot;:4,&quot;par&quot;:3,&quot;yardage&quot;:95,&quot;handicap&quot;:9},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:296,&quot;handicap&quot;:7},{&quot;number&quot;:6,&quot;par&quot;:4,&quot;yardage&quot;:281,&quot;handicap&quot;:5},{&quot;number&quot;:7,&quot;par&quot;:5,&quot;yardage&quot;:461,&quot;handicap&quot;:2},{&quot;number&quot;:8,&quot;par&quot;:3,&quot;yardage&quot;:108,&quot;handicap&quot;:8},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:310,&quot;handicap&quot;:3}]}]
+      </ratings>
     </Folder>
   </Document>
 </kml>
