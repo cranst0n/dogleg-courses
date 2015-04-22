@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml 
+xmlns:atom="http://www.w3.org/2005/Atom" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Fenner Hill.kml</name>
+    <Folder>
+      <name>Fenner Hill</name>
+      <open>0</open>
+      <Placemark>
+        <name>Home</name>
+        <ExtendedData>
+          <Data name="city">
+            <value>Hope Valley</value>
+          </Data>
+          <Data name="phoneNumber">
+            <value>1-401-539-8000</value>
+          </Data>
+          <Data name="state">
+            <value>Rhode Island</value>
+          </Data>
+          <Data name="country">
+            <value>USA</value>
+          </Data>
+          <Data name="exclusivity">
+            <value>SemiPrivate</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -71.72258841497829,41.49599384460486,51.11662292480469
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72227557418337,41.49616843531234,50.76268768310547
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>1-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.722269913319,41.49617399544589,50.76698303222656 -71.71951072719419,41.49679544533689,31.19474601745605 -71.71844326472224,41.49673436726712,26.72817611694336
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>1-Right Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.7196235193269,41.49650017502279,31.42934989929199 -71.71922395076564,41.49663299975948,30.90920829772949
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>1-Green</name>
+        <LineString>
+          <coordinates>
+            -71.71857603095405,41.49674091427778,26.48987770080566 -71.71844642457602,41.49673287358611,26.72558784484863 -71.7183472828697,41.49673258901802,26.85193252563477
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>2-Tee</name>
+        <Point>
+          <coordinates>
+            -71.71885071257167,41.49732267452671,33.98430252075195
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.71884409421457,41.49733447138677,34.02018737792969 -71.72125418131732,41.49717450103368,45.90770721435547 -71.72241148842156,41.49672059630736,49.59177780151367
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>2-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72230235493574,41.49677310179828,49.1158332824707 -71.72239902143798,41.49672837874986,49.51285552978516 -71.72249459150962,41.49668648578277,49.96650695800781
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>3-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72311502553505,41.49719123088219,50.46371459960938
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.7231012364124,41.49720967700529,50.48408508300781 -71.72062072617514,41.49808491354663,36.78113174438477 -71.71913446879341,41.49793750379597,31.39422607421875 -71.71795680575727,41.49766210868047,24.07877731323242
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>3-Right Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.7206189524299,41.49783481621412,39.77684783935547 -71.72014403698631,41.4978381185691,38.17000198364258
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>3-Left Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.72048225318231,41.49819999005214,36.41816711425781 -71.7202505822322,41.49819415970263,35.96286010742188
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>3-Green</name>
+        <LineString>
+          <coordinates>
+            -71.71810755400854,41.49773673102064,24.1267204284668 -71.71798390090326,41.49768376405624,24.14820861816406 -71.71785404835566,41.49763078344711,24.0133171081543
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>4-Tee</name>
+        <Point>
+          <coordinates>
+            -71.71802842929463,41.49727879303271,23.71028518676758
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.71802529183213,41.49728853847748,23.69328117370605 -71.71767148314925,41.49615334267985,26.75638580322266
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>4-Green</name>
+        <LineString>
+          <coordinates>
+            -71.7177468258731,41.49628840200111,25.96904182434082 -71.71770125487198,41.49619624327571,26.56769752502441 -71.7176574546275,41.49611161839339,26.95465469360352
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>5-Tee</name>
+        <Point>
+          <coordinates>
+            -71.71708007019649,41.49567263382824,30.14012718200684
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.71706335528818,41.49567620993837,30.15743446350098 -71.71947389889786,41.4956592655774,29.66891670227051 -71.72082864184303,41.49582906389833,37.65007400512695
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>5-Right Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.71913324305194,41.49586533239615,29.72156143188477 -71.71934149899059,41.49582863470574,30.40825653076172
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>5-Left Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.71943711711776,41.49548189404271,30.06056213378906 -71.71978456130645,41.4955439982332,30.79727172851562
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>5-Water Right</name>
+        <LineString>
+          <coordinates>
+            -71.7198418430378,41.49577185194413,28.71426773071289 -71.72014480687373,41.4958195418248,31.21193885803223
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>5-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72064456432284,41.49576119498521,36.95633316040039 -71.72078766678929,41.4958030259762,37.51494216918945 -71.72093891126957,41.49585081223675,38.2203483581543
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>6-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72009407426613,41.49525840192202,34.55694961547852
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.72008974483214,41.4952624054962,34.53861236572266 -71.7212501625946,41.49417099045235,34.40197372436523
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>6-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72115743847894,41.49428570748594,33.97060394287109 -71.72126444107631,41.49418230385049,34.39043426513672 -71.72136646478643,41.4940859086844,34.77071380615234
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>7-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.7212786625888,41.49334273205728,33.68880081176758 -71.71950069496368,41.49494684258118,32.14365005493164 -71.71770660816962,41.49528761526125,33.55316543579102
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>7-Tee</name>
+        <Point>
+          <coordinates>
+            -71.7212838810332,41.49332753863924,33.66837692260742
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>7-Right Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.71949628759538,41.49450434813289,34.35592651367188 -71.7193506050374,41.49469435589518,34.28885650634766
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>7-Green</name>
+        <LineString>
+          <coordinates>
+            -71.71794281648457,41.4952933039614,33.24446868896484 -71.71772760547387,41.49530223807093,33.5123176574707 -71.7175161995818,41.49531150202917,33.75987243652344
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>8-Tee</name>
+        <Point>
+          <coordinates>
+            -71.7168941321648,41.49523349331731,30.72673034667969
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.71689319359585,41.49523862063391,30.72466468811035 -71.71916191028359,41.49410797518543,34.90675354003906 -71.72081902276558,41.49300823306454,34.4400634765625 -71.7215126284537,41.49236800016282,35.24599456787109
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>8-Right Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.71937811214771,41.49424972221009,35.26568222045898 -71.71955129638135,41.49406950151609,35.87783050537109
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>8-Left Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.72060971424752,41.4929400986064,33.37744140625 -71.72071842057326,41.49281253457139,34.06264495849609
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>8-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72137503323707,41.49247918284784,34.43701553344727 -71.72151375269762,41.49237554083891,35.24491500854492 -71.7216289406643,41.49226193276672,35.33306884765625
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>9-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72182875437625,41.49250993621801,33.22843551635742
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.72182376645952,41.49251005514162,33.22853088378906 -71.7218562442231,41.49450918778866,35.28713989257812 -71.72221685368078,41.49542427354469,44.65943908691406
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>9-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72217116273987,41.49533061499099,44.22601699829102 -71.72222104057904,41.49544151188647,44.84761428833008 -71.72227585826633,41.4955680209909,45.9656982421875
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72317418909734,41.49562935364567,49.52054214477539
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.72317324379145,41.49563419528981,49.51973342895508 -71.7249751484069,41.49449910109478,50.40629959106445 -71.7265963550865,41.49438736339077,61.47733306884766 -71.72749924672338,41.49415744884224,65.4036636352539
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10-Right Fairway Bunkers</name>
+        <LineString>
+          <coordinates>
+            -71.72514456411803,41.49467985234861,51.94681930541992 -71.72534742027563,41.49455244611292,54.43548965454102
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>10-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72728613613516,41.4942682789008,64.57806396484375 -71.72747237257464,41.49419085341589,65.34154510498047 -71.72764803899129,41.49411758118013,65.96312713623047
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72805013832728,41.49430161078005,69.66619873046875
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.72804245182162,41.49430525279639,69.67411804199219 -71.72781160259724,41.49570726360132,71.14292907714844
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>11-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72785550494523,41.49558403520646,70.89448547363281 -71.7278297064186,41.49569630120617,71.14904022216797 -71.72780287773087,41.49581215466027,71.41836547851562
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72870857569035,41.49512452052713,73.09900665283203
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.72870350187031,41.49514368086827,73.09989929199219 -71.72828702543723,41.49298749282576,67.46080780029297 -71.7276958633967,41.49170281888014,62.78303527832031
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>12-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72776963621348,41.4918546701097,62.80629348754883 -71.72770032128477,41.49170351455072,62.78873062133789 -71.72763758698285,41.49156415319647,63.03788757324219
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72848987545325,41.49223834221318,67.44810485839844
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>13-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.72848326078586,41.49223840018345,67.43218994140625 -71.7279864868821,41.49028064945321,61.76145935058594 -71.7277787771208,41.48949324838294,61.16598892211914
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13-Fairway Breaks</name>
+        <LineString>
+          <coordinates>
+            -71.72810422456037,41.49115708731424,62.74630355834961 -71.7280554099237,41.49066845994984,61.71316909790039
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>13-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72777931366238,41.48963135174476,60.83553695678711 -71.7277771418242,41.48948203990044,61.20669174194336 -71.72778125452201,41.48934630778933,61.71434783935547
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72720606198966,41.48944296590798,58.79733276367188
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.72720868090286,41.48945354046589,58.80755233764648 -71.72695692365538,41.4915552785457,57.14654922485352 -71.72729406841732,41.49270093837035,60.95806121826172 -71.72781577753244,41.49360019892198,66.23192596435547
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14-Dogleg</name>
+        <Point>
+          <coordinates>
+            -71.72696220030163,41.49203684577198,58.18031311035156
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14-Left Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.72764423600002,41.49277765124122,63.35631942749023 -71.72771480721943,41.49299573860637,64.0644302368164
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>14-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72775544440191,41.49349519021803,65.81903076171875 -71.72780899463447,41.49359598201357,66.1983642578125 -71.72785900818288,41.49369802489832,66.64342498779297
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>15-Tee</name>
+        <Point>
+          <coordinates>
+            -71.7272675624762,41.49376576037763,63.78901672363281
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.727283605199,41.49378373387968,63.97575378417969 -71.72496165599816,41.49384685596453,49.33071517944336 -71.72435615204964,41.49342290685568,47.03601837158203
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>15-Water Right</name>
+        <LineString>
+          <coordinates>
+            -71.72477006458034,41.49360498661362,47.36249923706055 -71.72450437407784,41.4935098481081,46.62611770629883
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>15-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72446694621236,41.49353131034795,47.08694839477539 -71.72436030932683,41.49346631006843,47.10811233520508 -71.72426212253649,41.49340690927373,46.83934020996094
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72368749071084,41.4930572181306,45.09532928466797
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.72368671147399,41.49306230576277,45.10094833374023 -71.72556747948023,41.49292961866389,51.03845977783203
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>16-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72539376336354,41.49291147298661,50.33127975463867 -71.72555875711143,41.49292637509865,50.98586654663086 -71.72572642388175,41.49294452723557,51.99141693115234
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72627738087157,41.49335640281593,57.81444931030273
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.72627738087157,41.49335640281593,57.81444931030273 -71.72595933973379,41.49174062015843,50.66952896118164 -71.72499426016824,41.49161154086924,47.37627410888672
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17-Left Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.72577626856857,41.49190494946455,50.03575134277344 -71.72567871482063,41.49175978272638,49.71891784667969
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17-Right Fairway Bunker</name>
+        <LineString>
+          <coordinates>
+            -71.72610039816499,41.491706743131,51.36468124389648 -71.72603776095492,41.49158783129665,51.66577911376953
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>17-Dogleg</name>
+        <Point>
+          <coordinates>
+            -71.72592810379525,41.49168675464539,50.52766418457031
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72515095417158,41.4916141507566,47.82423782348633 -71.72499978252907,41.49162282056572,47.35084533691406 -71.72486027823463,41.49163305278522,47.27355194091797
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18-Tee</name>
+        <Point>
+          <coordinates>
+            -71.72303631445921,41.49207166491457,34.65719223022461
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18-Flyby</name>
+        <LineString>
+          <coordinates>
+            -71.72302759079645,41.49207172718125,34.6464729309082 -71.72304751169897,41.49350079384912,37.39818572998047 -71.72318166174134,41.49427073047749,41.59231948852539 -71.72294451644508,41.49532983242415,45.82480239868164
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18-Fairway Breaks</name>
+        <LineString>
+          <coordinates>
+            -71.72316373192805,41.49430971423925,41.05630493164062 -71.72304724808131,41.49491347157128,41.84262847900391
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>18-Green</name>
+        <LineString>
+          <coordinates>
+            -71.72297095832424,41.49520215012954,45.12136077880859 -71.72293395599829,41.49532720723236,45.78046417236328 -71.72289501074793,41.49546886340731,46.61922836303711
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <ratings>
+        [{&quot;teeName&quot;:&quot;Blue&quot;,&quot;rating&quot;:71.4,&quot;slope&quot;:132.0,&quot;frontRating&quot;:35.8,&quot;frontSlope&quot;:130.0,&quot;backRating&quot;:35.6,&quot;backSlope&quot;:134.0,&quot;bogeyRating&quot;:96.0,&quot;gender&quot;:&quot;Male&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:380,&quot;handicap&quot;:13},{&quot;number&quot;:2,&quot;par&quot;:4,&quot;yardage&quot;:357,&quot;handicap&quot;:11},{&quot;number&quot;:3,&quot;par&quot;:5,&quot;yardage&quot;:520,&quot;handicap&quot;:3},{&quot;number&quot;:4,&quot;par&quot;:3,&quot;yardage&quot;:162,&quot;handicap&quot;:15},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:371,&quot;handicap&quot;:9},{&quot;number&quot;:6,&quot;par&quot;:3,&quot;yardage&quot;:181,&quot;handicap&quot;:17},{&quot;number&quot;:7,&quot;par&quot;:4,&quot;yardage&quot;:429,&quot;handicap&quot;:5},{&quot;number&quot;:8,&quot;par&quot;:5,&quot;yardage&quot;:579,&quot;handicap&quot;:1},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:370,&quot;handicap&quot;:7},{&quot;number&quot;:10,&quot;par&quot;:5,&quot;yardage&quot;:480,&quot;handicap&quot;:6},{&quot;number&quot;:11,&quot;par&quot;:3,&quot;yardage&quot;:180,&quot;handicap&quot;:14},{&quot;number&quot;:12,&quot;par&quot;:4,&quot;yardage&quot;:452,&quot;handicap&quot;:8},{&quot;number&quot;:13,&quot;par&quot;:4,&quot;yardage&quot;:352,&quot;handicap&quot;:12},{&quot;number&quot;:14,&quot;par&quot;:5,&quot;yardage&quot;:548,&quot;handicap&quot;:4},{&quot;number&quot;:15,&quot;par&quot;:4,&quot;yardage&quot;:325,&quot;handicap&quot;:16},{&quot;number&quot;:16,&quot;par&quot;:3,&quot;yardage&quot;:180,&quot;handicap&quot;:10},{&quot;number&quot;:17,&quot;par&quot;:4,&quot;yardage&quot;:315,&quot;handicap&quot;:18},{&quot;number&quot;:18,&quot;par&quot;:4,&quot;yardage&quot;:455,&quot;handicap&quot;:2}]},{&quot;teeName&quot;:&quot;White&quot;,&quot;rating&quot;:70.1,&quot;slope&quot;:126.0,&quot;frontRating&quot;:34.9,&quot;frontSlope&quot;:129.0,&quot;backRating&quot;:35.2,&quot;backSlope&quot;:123.0,&quot;bogeyRating&quot;:93.5,&quot;gender&quot;:&quot;Male&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:366,&quot;handicap&quot;:13},{&quot;number&quot;:2,&quot;par&quot;:4,&quot;yardage&quot;:347,&quot;handicap&quot;:11},{&quot;number&quot;:3,&quot;par&quot;:5,&quot;yardage&quot;:486,&quot;handicap&quot;:3},{&quot;number&quot;:4,&quot;par&quot;:3,&quot;yardage&quot;:152,&quot;handicap&quot;:15},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:352,&quot;handicap&quot;:9},{&quot;number&quot;:6,&quot;par&quot;:3,&quot;yardage&quot;:158,&quot;handicap&quot;:17},{&quot;number&quot;:7,&quot;par&quot;:4,&quot;yardage&quot;:394,&quot;handicap&quot;:5},{&quot;number&quot;:8,&quot;par&quot;:5,&quot;yardage&quot;:520,&quot;handicap&quot;:1},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:355,&quot;handicap&quot;:7},{&quot;number&quot;:10,&quot;par&quot;:5,&quot;yardage&quot;:468,&quot;handicap&quot;:6},{&quot;number&quot;:11,&quot;par&quot;:3,&quot;yardage&quot;:164,&quot;handicap&quot;:14},{&quot;number&quot;:12,&quot;par&quot;:4,&quot;yardage&quot;:440,&quot;handicap&quot;:8},{&quot;number&quot;:13,&quot;par&quot;:4,&quot;yardage&quot;:338,&quot;handicap&quot;:12},{&quot;number&quot;:14,&quot;par&quot;:5,&quot;yardage&quot;:525,&quot;handicap&quot;:4},{&quot;number&quot;:15,&quot;par&quot;:4,&quot;yardage&quot;:309,&quot;handicap&quot;:16},{&quot;number&quot;:16,&quot;par&quot;:3,&quot;yardage&quot;:166,&quot;handicap&quot;:10},{&quot;number&quot;:17,&quot;par&quot;:4,&quot;yardage&quot;:297,&quot;handicap&quot;:18},{&quot;number&quot;:18,&quot;par&quot;:4,&quot;yardage&quot;:425,&quot;handicap&quot;:2}]},{&quot;teeName&quot;:&quot;Gold&quot;,&quot;rating&quot;:64.9,&quot;slope&quot;:110.0,&quot;frontRating&quot;:32.7,&quot;frontSlope&quot;:110.0,&quot;backRating&quot;:32.2,&quot;backSlope&quot;:110.0,&quot;bogeyRating&quot;:85.3,&quot;gender&quot;:&quot;Male&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:350,&quot;handicap&quot;:13},{&quot;number&quot;:2,&quot;par&quot;:4,&quot;yardage&quot;:324,&quot;handicap&quot;:11},{&quot;number&quot;:3,&quot;par&quot;:5,&quot;yardage&quot;:464,&quot;handicap&quot;:3},{&quot;number&quot;:4,&quot;par&quot;:3,&quot;yardage&quot;:137,&quot;handicap&quot;:15},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:337,&quot;handicap&quot;:9},{&quot;number&quot;:6,&quot;par&quot;:3,&quot;yardage&quot;:143,&quot;handicap&quot;:17},{&quot;number&quot;:7,&quot;par&quot;:4,&quot;yardage&quot;:368,&quot;handicap&quot;:5},{&quot;number&quot;:8,&quot;par&quot;:5,&quot;yardage&quot;:497,&quot;handicap&quot;:1},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:340,&quot;handicap&quot;:7},{&quot;number&quot;:10,&quot;par&quot;:5,&quot;yardage&quot;:453,&quot;handicap&quot;:6},{&quot;number&quot;:11,&quot;par&quot;:3,&quot;yardage&quot;:142,&quot;handicap&quot;:14},{&quot;number&quot;:12,&quot;par&quot;:4,&quot;yardage&quot;:415,&quot;handicap&quot;:8},{&quot;number&quot;:13,&quot;par&quot;:4,&quot;yardage&quot;:307,&quot;handicap&quot;:12},{&quot;number&quot;:14,&quot;par&quot;:5,&quot;yardage&quot;:487,&quot;handicap&quot;:4},{&quot;number&quot;:15,&quot;par&quot;:4,&quot;yardage&quot;:292,&quot;handicap&quot;:16},{&quot;number&quot;:16,&quot;par&quot;:3,&quot;yardage&quot;:152,&quot;handicap&quot;:10},{&quot;number&quot;:17,&quot;par&quot;:4,&quot;yardage&quot;:280,&quot;handicap&quot;:18},{&quot;number&quot;:18,&quot;par&quot;:4,&quot;yardage&quot;:405,&quot;handicap&quot;:2}]},{&quot;teeName&quot;:&quot;Red&quot;,&quot;rating&quot;:68.8,&quot;slope&quot;:119.0,&quot;frontRating&quot;:35.1,&quot;frontSlope&quot;:118.0,&quot;backRating&quot;:33.7,&quot;backSlope&quot;:119.0,&quot;bogeyRating&quot;:96.7,&quot;gender&quot;:&quot;Female&quot;,&quot;holeRatings&quot;:[{&quot;number&quot;:1,&quot;par&quot;:4,&quot;yardage&quot;:338,&quot;handicap&quot;:13},{&quot;number&quot;:2,&quot;par&quot;:4,&quot;yardage&quot;:269,&quot;handicap&quot;:11},{&quot;number&quot;:3,&quot;par&quot;:5,&quot;yardage&quot;:407,&quot;handicap&quot;:5},{&quot;number&quot;:4,&quot;par&quot;:3,&quot;yardage&quot;:130,&quot;handicap&quot;:17},{&quot;number&quot;:5,&quot;par&quot;:4,&quot;yardage&quot;:301,&quot;handicap&quot;:7},{&quot;number&quot;:6,&quot;par&quot;:3,&quot;yardage&quot;:114,&quot;handicap&quot;:15},{&quot;number&quot;:7,&quot;par&quot;:4,&quot;yardage&quot;:362,&quot;handicap&quot;:3},{&quot;number&quot;:8,&quot;par&quot;:5,&quot;yardage&quot;:476,&quot;handicap&quot;:1},{&quot;number&quot;:9,&quot;par&quot;:4,&quot;yardage&quot;:290,&quot;handicap&quot;:9},{&quot;number&quot;:10,&quot;par&quot;:4,&quot;yardage&quot;:340,&quot;handicap&quot;:4},{&quot;number&quot;:11,&quot;par&quot;:3,&quot;yardage&quot;:105,&quot;handicap&quot;:18},{&quot;number&quot;:12,&quot;par&quot;:4,&quot;yardage&quot;:288,&quot;handicap&quot;:14},{&quot;number&quot;:13,&quot;par&quot;:4,&quot;yardage&quot;:290,&quot;handicap&quot;:6},{&quot;number&quot;:14,&quot;par&quot;:5,&quot;yardage&quot;:350,&quot;handicap&quot;:8},{&quot;number&quot;:15,&quot;par&quot;:4,&quot;yardage&quot;:282,&quot;handicap&quot;:12},{&quot;number&quot;:16,&quot;par&quot;:3,&quot;yardage&quot;:148,&quot;handicap&quot;:10},{&quot;number&quot;:17,&quot;par&quot;:4,&quot;yardage&quot;:267,&quot;handicap&quot;:16},{&quot;number&quot;:18,&quot;par&quot;:5,&quot;yardage&quot;:355,&quot;handicap&quot;:2}]}]
+      </ratings>
+    </Folder>
+  </Document>
+</kml>
+
+    
